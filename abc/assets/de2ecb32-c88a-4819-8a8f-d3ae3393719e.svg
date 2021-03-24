@@ -1,0 +1,10 @@
+<svg id="Component_242" data-name="Component 242" xmlns="http://www.w3.org/2000/svg" width="938" height="45" viewBox="0 0 938 45">
+  <rect id="Head.BG" width="938" height="45" fill="#4f99bb"/>
+  <text id="Structure_ID" data-name="Structure ID" transform="translate(10 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Structure ID</tspan></text>
+  <text id="Wire_Run_ID" data-name="Wire Run ID" transform="translate(150 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Wire Run ID</tspan></text>
+  <text id="ELR" transform="translate(269 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ELR</tspan></text>
+  <text id="Track_ID" data-name="Track ID" transform="translate(337 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Track ID</tspan></text>
+  <text id="Surveyed" transform="translate(552 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Surveyed</tspan></text>
+  <text id="Action" transform="translate(720 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Action</tspan></text>
+  <text id="Status" transform="translate(422 28)" fill="#fff" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Status</tspan></text>
+</svg>

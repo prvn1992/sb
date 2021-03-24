@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="271" height="188.001" viewBox="0 0 271 188.001">
+  <g id="Component_457" data-name="Component 457" transform="translate(0 1)">
+    <g id="Component_456_1" data-name="Component 456 – 1" transform="translate(47)">
+      <path id="Subtraction_17" data-name="Subtraction 17" d="M53.669,44.537h0L34.388,20.78A92.536,92.536,0,0,1,75.237,1.7,93.681,93.681,0,0,1,93,0l.538,0-.177,30.591H93A62.2,62.2,0,0,0,53.67,44.536Z" transform="translate(0 186.001) rotate(-90)" fill="#4d4f5c" stroke="#fff" stroke-width="2"/>
+      <path id="Subtraction_19" data-name="Subtraction 19" d="M25.479,36.931a92.4,92.4,0,0,1-36.2-7.309,92.946,92.946,0,0,1-15.8-8.574A93.679,93.679,0,0,1-40.281,9.692,93.621,93.621,0,0,1-51.637-4.072a93.023,93.023,0,0,1-8.575-15.8,92.42,92.42,0,0,1-7.308-36.2,92.42,92.42,0,0,1,7.308-36.2,93.061,93.061,0,0,1,8.575-15.8A93.662,93.662,0,0,1-40.281-121.83a93.9,93.9,0,0,1,9.425-8.239l18.528,24.338A63.215,63.215,0,0,0-18.65-100.2,62.19,62.19,0,0,0-32.024-80.361a62.015,62.015,0,0,0-4.9,24.292,62.015,62.015,0,0,0,4.9,24.292A62.2,62.2,0,0,0-18.65-11.939,62.192,62.192,0,0,0,1.187,1.435a62.016,62.016,0,0,0,24.292,4.9,62.016,62.016,0,0,0,24.292-4.9C50.829.987,51.888.5,52.918,0L66.368,27.483c-1.547.758-3.124,1.478-4.689,2.14A92.4,92.4,0,0,1,25.479,36.931Z" transform="translate(149.069 118.48) rotate(-90)" fill="#8dca61" stroke="#fff" stroke-width="2"/>
+      <path id="Subtraction_18" data-name="Subtraction 18" d="M40.745,176.684h0L27.182,149.256a62.276,62.276,0,0,0,17.074-12.127A62.2,62.2,0,0,0,57.63,117.291a62.6,62.6,0,0,0,0-48.583A62.181,62.181,0,0,0,44.256,48.871,62.2,62.2,0,0,0,24.419,35.5a62.013,62.013,0,0,0-24.292-4.9H0L.027,0h.1a92.4,92.4,0,0,1,36.2,7.308,92.99,92.99,0,0,1,15.8,8.575A93.623,93.623,0,0,1,65.888,27.239,93.638,93.638,0,0,1,77.245,41a93.021,93.021,0,0,1,8.574,15.8,93.3,93.3,0,0,1,0,72.4A93.018,93.018,0,0,1,77.245,145a93.7,93.7,0,0,1-11.357,13.764,93.7,93.7,0,0,1-13.763,11.356,93.359,93.359,0,0,1-11.379,6.566Z" transform="translate(0 93.128) rotate(-90)" fill="#51acb8" stroke="#fff" stroke-width="2"/>
+    </g>
+    <g id="Group_4723" data-name="Group 4723" transform="translate(-4952 -1455)">
+      <rect id="Rectangle_2293" data-name="Rectangle 2293" width="38" height="26" rx="4" transform="translate(4952 1578)" fill="#4d4f5c"/>
+      <text id="_15_" data-name="15%" transform="translate(4957 1596)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">15%</tspan></text>
+    </g>
+    <g id="Group_4724" data-name="Group 4724" transform="translate(-4759 -1455)">
+      <rect id="Rectangle_2293-2" data-name="Rectangle 2293" width="38" height="26" rx="4" transform="translate(4774 1455)" fill="#51acb8"/>
+      <text id="_30_" data-name="30%" transform="translate(4779 1473)" fill="#fff" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">30%</tspan></text>
+    </g>
+    <g id="Group_4722" data-name="Group 4722" transform="translate(-4687 -1279)">
+      <rect id="Rectangle_2293-3" data-name="Rectangle 2293" width="38" height="26" rx="4" transform="translate(4920 1429)" fill="#8dca61"/>
+      <text id="_55_" data-name="55%" transform="translate(4925 1447)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">55%</tspan></text>
+    </g>
+  </g>
+</svg>

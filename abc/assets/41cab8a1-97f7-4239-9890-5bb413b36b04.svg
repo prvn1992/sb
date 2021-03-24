@@ -1,0 +1,47 @@
+<svg id="Component_207" data-name="Component 207" xmlns="http://www.w3.org/2000/svg" width="340" height="194" viewBox="0 0 340 194">
+  <rect id="Rectangle_2480" data-name="Rectangle 2480" width="10" height="47.468" transform="translate(181 131.001)" fill="#8dca61"/>
+  <rect id="Rectangle_2486" data-name="Rectangle 2486" width="11" height="118.67" transform="translate(207 59.799)" fill="#8dca61"/>
+  <rect id="Rectangle_2492" data-name="Rectangle 2492" width="10" height="63.979" transform="translate(239 114.49)" fill="#8dca61"/>
+  <rect id="Rectangle_2498" data-name="Rectangle 2498" width="10" height="35.085" transform="translate(266 143.384)" fill="#8dca61"/>
+  <rect id="Rectangle_2504" data-name="Rectangle 2504" width="10" height="121.766" transform="translate(322 56.703)" fill="#8dca61"/>
+  <rect id="Rectangle_2322" data-name="Rectangle 2322" width="2" height="336" transform="translate(340 178) rotate(90)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2321" data-name="Rectangle 2321" width="3" height="179" transform="translate(4)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366" data-name="Rectangle 2366" width="7" height="2" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-2" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 9)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-3" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 18)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-4" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 28)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-5" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 38.194)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-6" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 47.484)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-7" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 56.774)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-8" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 66.065)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-9" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 75.355)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-10" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 85.677)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-11" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 94.968)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-12" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 104.258)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-13" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 113.548)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-14" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 122.839)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-15" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 132.129)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-16" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 142.452)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-17" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 151.742)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-18" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 162)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2366-19" data-name="Rectangle 2366" width="7" height="2" transform="translate(0 171)" fill="#4d4f5c"/>
+  <rect id="Rectangle_2368" data-name="Rectangle 2368" width="10" height="107.319" transform="translate(17 71.15)" fill="#8dca61"/>
+  <rect id="Rectangle_2441" data-name="Rectangle 2441" width="10" height="149.628" transform="translate(45 28.841)" fill="#8dca61"/>
+  <rect id="Rectangle_2447" data-name="Rectangle 2447" width="10" height="52.628" transform="translate(73 125.842)" fill="#8dca61"/>
+  <rect id="Rectangle_2453" data-name="Rectangle 2453" width="10" height="29.926" transform="translate(128 148.544)" fill="#8dca61"/>
+  <rect id="Rectangle_2608" data-name="Rectangle 2608" width="11" height="29.926" transform="translate(294 148.544)" fill="#8dca61"/>
+  <rect id="Rectangle_2459" data-name="Rectangle 2459" width="10" height="94.936" transform="translate(100 83.533)" fill="#8dca61"/>
+  <rect id="Rectangle_2465" data-name="Rectangle 2465" width="10" height="48.5" transform="translate(156 129.969)" fill="#8dca61"/>
+  <text id="Jul" transform="translate(186 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-7.67" y="0">Jul</tspan></text>
+  <text id="Aug" transform="translate(213 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Aug</tspan></text>
+  <text id="Sep" transform="translate(244 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Sep</tspan></text>
+  <text id="Oct" transform="translate(271 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.334" y="0">Oct</tspan></text>
+  <text id="Nov" transform="translate(300 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Nov</tspan></text>
+  <text id="Dec" transform="translate(327 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Dec</tspan></text>
+  <text id="Jun" transform="translate(161 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jun</tspan></text>
+  <text id="Jan" transform="translate(22 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jan</tspan></text>
+  <text id="Feb" transform="translate(49 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.339" y="0">Feb</tspan></text>
+  <text id="Mar" transform="translate(78 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.333" y="0">Mar</tspan></text>
+  <text id="Apr" transform="translate(105 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.337" y="0">Apr</tspan></text>
+  <text id="May" transform="translate(133 191)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-11.335" y="0">May</tspan></text>
+</svg>

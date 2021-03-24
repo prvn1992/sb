@@ -1,0 +1,15 @@
+<svg id="Alerts_-_Default_1_Line_Title" data-name="Alerts - Default 1 Line Title" xmlns="http://www.w3.org/2000/svg" width="268" height="207" viewBox="0 0 268 207">
+  <g id="Background" transform="translate(0 19)">
+    <rect id="Platter" width="268" height="207" rx="14" transform="translate(0 -19)" fill="rgba(242,242,242,0.8)"/>
+  </g>
+  <text id="Description" transform="translate(79 64)" font-size="13" font-family="Helvetica" letter-spacing="-0.008em"><tspan x="0" y="10">= Within Specifications</tspan><tspan x="0" y="38">= Outside Specifications</tspan><tspan x="0" y="66">= Fault</tspan></text>
+  <text id="Title" transform="translate(16 19)" font-size="17" font-family="Helvetica" letter-spacing="-0.032em"><tspan x="44.518" y="13">BWA Survey Results</tspan></text>
+  <g id="Bottom_Actions" data-name="Bottom Actions" transform="translate(0 163)">
+    <rect id="Frame" width="268" height="44" fill="#fff" opacity="0"/>
+    <g id="Separator">
+      <rect id="Frame-2" data-name="Frame" width="268" height="1" fill="#fff" opacity="0"/>
+      <rect id="Separator-2" data-name="Separator" width="268" height="0.5" fill="rgba(60,60,67,0.29)"/>
+    </g>
+    <text id="Label" transform="translate(134 28)" fill="#007aff" font-size="17" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="-20.915" y="0">Close</tspan></text>
+  </g>
+</svg>

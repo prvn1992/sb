@@ -1,0 +1,9 @@
+<svg id="Component_463" data-name="Component 463" xmlns="http://www.w3.org/2000/svg" width="210" height="56" viewBox="0 0 210 56">
+  <g id="Rectangle_2551" data-name="Rectangle 2551" transform="translate(42)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+    <rect width="168" height="56" stroke="none"/>
+    <rect x="0.5" y="0.5" width="167" height="55" fill="none"/>
+  </g>
+  <text id="MPA_Distance_Changed" data-name="MPA Distance Changed" transform="translate(52 33)" fill="rgba(0,0,0,0.8)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">MPA Distance Changed</tspan></text>
+  <path id="Rectangle_2552" data-name="Rectangle 2552" d="M4,0H42a0,0,0,0,1,0,0V56a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#005172"/>
+  <text id="_2" data-name="2" transform="translate(21 37)" fill="#fff" font-size="25" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-6.952" y="0">2</tspan></text>
+</svg>

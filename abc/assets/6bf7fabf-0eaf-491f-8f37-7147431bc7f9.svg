@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="361.112" height="112" viewBox="0 0 361.112 112">
+  <g id="Component_125" data-name="Component 125" transform="translate(0.056)">
+    <rect id="images" width="361.112" height="112" rx="2" transform="translate(-0.056)" fill="#e0dfdd" opacity="0.5"/>
+    <g id="iconfinder_icon-upload_211937" transform="translate(151.447 23.562)">
+      <path id="iconfinder_icon-upload_211937-2" data-name="iconfinder_icon-upload_211937" d="M79.79,127.821c0-.157.026-.313.026-.47A15.225,15.225,0,0,0,64.713,112,15.057,15.057,0,0,0,51.1,120.746a7.733,7.733,0,0,0-3.5-.849,7.832,7.832,0,0,0-7.676,6.592,11.895,11.895,0,0,0,3.76,23.105h13.38V139.152H50.771l10.469-10.926L71.71,139.139H65.418v10.443h14.4a10.882,10.882,0,0,0-.026-21.761Z" transform="translate(-32 -112)" fill="#1d7880"/>
+    </g>
+    <text id="Select_from_device" data-name="Select from device" transform="translate(126.398 84.496)" fill="#1d7880" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Select from device</tspan></text>
+  </g>
+</svg>

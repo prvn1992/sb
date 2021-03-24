@@ -1,0 +1,25 @@
+<svg id="Stepper_3" data-name="Stepper 3" xmlns="http://www.w3.org/2000/svg" width="942" height="61" viewBox="0 0 942 61">
+  <g id="step">
+    <text id="Step_1" data-name="Step 1" transform="translate(19 58)" fill="#4d4f5c" font-size="13" font-family="ArialMT, Arial"><tspan x="-18.792" y="0">Step 1</tspan></text>
+    <path id="Ellipse" d="M19,0A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" fill="#4f99bb"/>
+    <text id="_1" data-name="1" transform="translate(19 24)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.615" y="0">1</tspan></text>
+    <path id="Line" d="M0,0H2V238H0Z" transform="translate(286 19) rotate(90)" fill="#4f99bb"/>
+  </g>
+  <g id="step-2" data-name="step" transform="translate(302.455)">
+    <text id="Step_2" data-name="Step 2" transform="translate(18.545 58)" fill="#4d4f5c" font-size="13" font-family="ArialMT, Arial"><tspan x="-18.792" y="0">Step 2</tspan></text>
+    <path id="Ellipse-2" data-name="Ellipse" d="M19,0A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" fill="#4f99bb"/>
+    <text id="_2" data-name="2" transform="translate(18.545 24)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.615" y="0">2</tspan></text>
+    <path id="Line-2" data-name="Line" d="M0,0H2V238H0Z" transform="translate(286 19) rotate(90)" fill="#4f99bb"/>
+  </g>
+  <g id="step-3" data-name="step" transform="translate(607)">
+    <text id="Step_3" data-name="Step 3" transform="translate(19 58)" fill="#4d4f5c" font-size="13" font-family="ArialMT, Arial"><tspan x="-18.792" y="0">Step 3</tspan></text>
+    <path id="Ellipse-3" data-name="Ellipse" d="M19,0A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" fill="#4f99bb"/>
+    <text id="_3" data-name="3" transform="translate(19 24)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.615" y="0">3</tspan></text>
+    <path id="Line-3" data-name="Line" d="M0,0H2V238H0Z" transform="translate(286 19) rotate(90)" fill="#4f99bb"/>
+  </g>
+  <g id="step-4" data-name="step" transform="translate(904)">
+    <text id="Step_4" data-name="Step 4" transform="translate(19 58)" fill="#4d4f5c" font-size="13" font-family="ArialMT, Arial"><tspan x="-18.792" y="0">Step 4</tspan></text>
+    <path id="Ellipse-4" data-name="Ellipse" d="M19,0A19,19,0,1,1,0,19,19,19,0,0,1,19,0Z" fill="#4f99bb"/>
+    <text id="_4" data-name="4" transform="translate(19 24)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.615" y="0">4</tspan></text>
+  </g>
+</svg>

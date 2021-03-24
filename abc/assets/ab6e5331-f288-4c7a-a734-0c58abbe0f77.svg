@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="210" viewBox="0 0 288 210">
+  <defs>
+    <filter id="Rectangle_674" x="0" y="0" width="288" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_187" data-name="Component 187" transform="translate(9 8)">
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_674)">
+      <rect id="Rectangle_674-2" data-name="Rectangle 674" width="270" height="192" rx="2" transform="translate(9 8)" fill="#fff"/>
+    </g>
+    <g id="Rectangle_166" data-name="Rectangle 166" transform="translate(10 135)" fill="#fff" stroke="#1d7880" stroke-width="1">
+      <rect width="88" height="44" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="87" height="43" rx="3.5" fill="none"/>
+    </g>
+    <text id="View" transform="translate(68 162.5)" fill="#1d7880" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-18.086" y="0">View</tspan></text>
+    <g id="Path_1465" data-name="Path 1465" transform="translate(108 135)" fill="#fff">
+      <path d="M 85.64185333251953 43.5 L 3.892816305160522 43.5 C 2.022016286849976 43.5 0.5000045895576477 41.92990493774414 0.5000045895576477 40 L 0.5000045895576477 4 C 0.5000045895576477 2.070094108581543 2.022016286849976 0.5 3.892816305160522 0.5 L 85.64185333251953 0.5 C 87.51266479492188 0.5 89.03467559814453 2.070094108581543 89.03467559814453 4 L 89.03467559814453 23.80640029907227 L 89.03467559814453 40 C 89.03467559814453 41.92990493774414 87.51266479492188 43.5 85.64185333251953 43.5 Z" stroke="none"/>
+      <path d="M 3.892814636230469 1 C 2.297714233398438 1 0.9999923706054688 2.345798492431641 0.9999923706054688 4 L 0.9999923706054688 40 C 0.9999923706054688 41.65420150756836 2.297714233398438 43 3.892814636230469 43 L 85.64185333251953 43 C 87.23695373535156 43 88.53466033935547 41.65420150756836 88.53466033935547 40 L 88.53466033935547 23.80640029907227 L 88.53466033935547 4 C 88.53466033935547 2.345798492431641 87.23695373535156 1 85.64185333251953 1 L 3.892814636230469 1 M 3.892814636230469 0 L 85.64185333251953 0 C 87.79179382324219 0 89.53466033935547 1.790859222412109 89.53466033935547 4 L 89.53466033935547 23.80640029907227 L 89.53466033935547 40 C 89.53466033935547 42.20914077758789 87.79179382324219 44 85.64185333251953 44 L 3.892814636230469 44 C 1.742874145507812 44 -7.62939453125e-06 42.20914077758789 -7.62939453125e-06 40 L -7.62939453125e-06 4 C -7.62939453125e-06 1.790859222412109 1.742874145507812 0 3.892814636230469 0 Z" stroke="none" fill="#1d7880"/>
+    </g>
+    <text id="Survey" transform="translate(163 162.5)" fill="#1d7880" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-26.684" y="0">Survey</tspan></text>
+    <text id="Wire_Run" data-name="Wire Run" transform="translate(10 32)" fill="#707070" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Wire Run</tspan></text>
+    <text id="_000006787005_" data-name="000006787005
+" transform="translate(10 58)" fill="#333" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">000006787005</tspan><tspan x="0" y="16"></tspan></text>
+    <text id="ELR:_BBM_Track:_1900_Last_Surveyed:_10_12_2019" data-name="ELR: BBM 
+Track: 1900
+Last Surveyed: 10/12/2019" transform="translate(10 80)" fill="#737373" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">ELR: BBM </tspan><tspan x="0" y="21">Track: 1900</tspan><tspan x="0" y="42">Last Surveyed: 10/12/2019</tspan></text>
+    <g id="Group_2925" data-name="Group 2925" transform="translate(-51.127 -6579)">
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(287 6724)" fill="#e4b720"/>
+      <circle id="Ellipse_16-2" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(258.127 6724)" fill="#e4b720"/>
+    </g>
+    <path id="Path_1461" data-name="Path 1461" d="M27.6,12.929c-2.763-2.246-7.408-5.511-13.256-5.621h-.036C8.464,7.42,3.812,10.683,1.052,12.929A2.557,2.557,0,0,0,0,14.616a1.891,1.891,0,0,0,.7,1.47c2.255,2.182,7.176,6.059,13.609,6.088v0h.036v0c6.445-.029,11.354-3.906,13.607-6.088a1.892,1.892,0,0,0,.7-1.47A2.556,2.556,0,0,0,27.6,12.929ZM14.326,20.5a5.756,5.756,0,1,1,5.718-5.756A5.757,5.757,0,0,1,14.326,20.5Z" transform="translate(16 141.692)" fill="#1d7880"/>
+    <path id="Path_1462" data-name="Path 1462" d="M14.344,12.5h-.036a2.237,2.237,0,0,0,0,4.472v0l.018,0,.018,0v0a2.237,2.237,0,0,0,0-4.472Z" transform="translate(16 141.692)" fill="#1d7880"/>
+    <path id="Path_1463" data-name="Path 1463" d="M18.023,17.976a.651.651,0,0,1-.651.651H6.953a.651.651,0,0,1-.651-.651V4.3h6.511V3H5V17.976A1.953,1.953,0,0,0,6.953,19.93H17.372a1.953,1.953,0,0,0,1.953-1.953V9.511h-1.3Z" transform="translate(111 145.629)" fill="#1d7880"/>
+    <path id="Path_1464" data-name="Path 1464" d="M23.241,2.585a2.006,2.006,0,0,0-2.761,0L16.651,6.407,16,9.858l3.418-.684,3.822-3.822a1.953,1.953,0,0,0,0-2.767ZM18.774,7.97,17.628,8.2l.228-1.146,2.162-2.168.925.925Zm3.549-3.542-.462.456-.918-.918L21.4,3.5h0a.654.654,0,1,1,.925.925Z" transform="translate(107.163 145.966)" fill="#1d7880"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="Component_310" data-name="Component 310" xmlns="http://www.w3.org/2000/svg" width="327" height="134" viewBox="0 0 327 134">
+  <text id="Location" transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Location</tspan></text>
+  <text id="Select_the_desired_asset_location_on_the_map_to_auto_populate_the_co-ordinates" data-name="Select the desired asset location on the map to auto populate
+the co-ordinates" transform="translate(0 29)" fill="#939393" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Select the desired asset location on the map to auto populate</tspan><tspan x="0" y="14">the co-ordinates</tspan></text>
+  <text id="_" data-name="*" transform="translate(55 13)" fill="#e35100" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">*</tspan></text>
+  <text id="Select_on_Map" data-name="Select on Map" transform="translate(0 69)" fill="#1d7880" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Select on Map</tspan></text>
+  <text id="Select_current_location" data-name="Select current location" transform="translate(176 69)" fill="#1d7880" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Select current location</tspan></text>
+  <g id="Group_3945" data-name="Group 3945" transform="translate(-24 -356)" opacity="0.8">
+    <text id="Latitide" transform="translate(24 461)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Latitide</tspan></text>
+    <text id=":" transform="translate(96 461)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">:</tspan></text>
+    <text id="_-" data-name="-" transform="translate(110 461)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">-</tspan></text>
+    <text id="Longitude" transform="translate(24 487)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Longitude</tspan></text>
+    <text id=":-2" data-name=":" transform="translate(96 487)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">:</tspan></text>
+    <text id="_--2" data-name="-" transform="translate(110 487)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">-</tspan></text>
+  </g>
+</svg>

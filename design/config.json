@@ -1,0 +1,13 @@
+{
+  "source": ["dist/styledictionary/properties/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "css",
+      "buildPath": "dist/",
+      "files": [{
+        "destination": "styledictionary/styles.css",
+        "format": "css/variables"
+      }]
+    }
+  }
+}

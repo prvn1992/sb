@@ -1,0 +1,172 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Praveen ",
+  "last_updated": "2021-03-23T11:31:58.634Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d0c443a2-0b3a-4d3e-8e3a-eb0f6296162e",
+      "name": "Arial — 14pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6aa2acdd-b3aa-45ec-7502-03061ee9e7f4",
+        "id": "4b297b40-2a3c-4ae9-9429-5f23862c1e89",
+        "last_sync": "2021-03-23T11:34:41.939Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d0c443a2-0b3a-4d3e-8e3a-eb0f6296162e",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "d0c443a2-0b3a-4d3e-8e3a-eb0f6296162e",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "d0c443a2-0b3a-4d3e-8e3a-eb0f6296162e",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "3934a5d1-e593-4d5c-a51a-180b587b352e",
+      "name": "Network Rail Sans — 20pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6aa2acdd-b3aa-45ec-7502-03061ee9e7f4",
+        "id": "35ac4fc1-3dae-43f5-b2e4-3c6d185f5414",
+        "last_sync": "2021-03-23T11:34:41.939Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "3934a5d1-e593-4d5c-a51a-180b587b352e",
+          "type": "custom",
+          "value": "Network Rail Sans",
+          "key": "family"
+        },
+        {
+          "id": "3934a5d1-e593-4d5c-a51a-180b587b352e",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "3934a5d1-e593-4d5c-a51a-180b587b352e",
+          "type": "size",
+          "value": "20",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "35807e8f-9975-45ac-9c9b-1121a33cc6a6",
+      "name": "Arial — 16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6aa2acdd-b3aa-45ec-7502-03061ee9e7f4",
+        "id": "ac19da4b-c63d-4bd9-87ee-46913a627655",
+        "last_sync": "2021-03-23T11:34:41.939Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "35807e8f-9975-45ac-9c9b-1121a33cc6a6",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "35807e8f-9975-45ac-9c9b-1121a33cc6a6",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "35807e8f-9975-45ac-9c9b-1121a33cc6a6",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "9694bebf-ded4-4e59-bffa-46dac77d561f",
+      "name": "Network Rail Sans — 25pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6aa2acdd-b3aa-45ec-7502-03061ee9e7f4",
+        "id": "e4c6a5f2-b17a-4233-8e0b-672615f6051f",
+        "last_sync": "2021-03-23T11:34:41.939Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "9694bebf-ded4-4e59-bffa-46dac77d561f",
+          "type": "custom",
+          "value": "Network Rail Sans",
+          "key": "family"
+        },
+        {
+          "id": "9694bebf-ded4-4e59-bffa-46dac77d561f",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "9694bebf-ded4-4e59-bffa-46dac77d561f",
+          "type": "size",
+          "value": "25",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "609e61e4-6df2-4d0d-b35a-fb753fc7d400",
+      "name": "Network Rail Sans — 22pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/6aa2acdd-b3aa-45ec-7502-03061ee9e7f4",
+        "id": "f7a8648f-b4c9-4157-a052-e9e8182a33b3",
+        "last_sync": "2021-03-23T11:34:41.939Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "609e61e4-6df2-4d0d-b35a-fb753fc7d400",
+          "type": "custom",
+          "value": "Network Rail Sans",
+          "key": "family"
+        },
+        {
+          "id": "609e61e4-6df2-4d0d-b35a-fb753fc7d400",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "609e61e4-6df2-4d0d-b35a-fb753fc7d400",
+          "type": "size",
+          "value": "22",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

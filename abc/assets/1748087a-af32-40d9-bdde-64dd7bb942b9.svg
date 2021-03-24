@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="56" viewBox="0 0 122 56">
+  <defs>
+    <filter id="Rectangle_1484" x="0" y="0" width="122" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_175" data-name="Component 175" transform="translate(6 4)">
+    <g id="Toggle2">
+      <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_1484)">
+        <rect id="Rectangle_1484-2" data-name="Rectangle 1484" width="110" height="44" rx="22" transform="translate(6 4)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_1485" data-name="Rectangle 1485" width="62" height="44" rx="22" fill="#1d7880"/>
+      <path id="iconfinder_list_293685" d="M3,7.443A2.443,2.443,0,1,0,5.443,5,2.443,2.443,0,0,0,3,7.443m7.328-1.629H23.357V9.071H10.328ZM3,13.957a2.443,2.443,0,1,0,2.443-2.443A2.443,2.443,0,0,0,3,13.957m7.328-1.629H23.357v3.257H10.328ZM3,20.471a2.443,2.443,0,1,0,2.443-2.443A2.443,2.443,0,0,0,3,20.471m7.328-1.629H23.357V22.1H10.328Z" transform="translate(68.643 8.086)" fill="#1d7880"/>
+    </g>
+    <path id="Path_1478" data-name="Path 1478" d="M25,17.238v7.481l-6-1.5V20.051l-2-2.813v6.008l-5,1.429V8.781l.011,0a8.94,8.94,0,0,1,.314-2.14l-.788.2A2.007,2.007,0,0,1,10.5,6.818L4.339,5.056A1.051,1.051,0,0,0,3,6.066V23.245a2,2,0,0,0,1.45,1.923l6.194,1.77a1.3,1.3,0,0,0,.712,0L17.5,25.182a2.007,2.007,0,0,1,1.035-.017l7.158,1.79A1.05,1.05,0,0,0,27,25.936V15.643ZM10,24.674,5,23.246V7.326l5,1.428Z" transform="translate(17 7)" fill="#fff"/>
+    <g id="Group_2875" data-name="Group 2875" transform="translate(17 7)">
+      <path id="Path_1477" data-name="Path 1477" d="M21,2a7,7,0,0,0-7,7c0,4.6,4.551,6.745,5.121,7.258A5.484,5.484,0,0,1,20.379,18.5a.637.637,0,0,0,1.242,0,5.467,5.467,0,0,1,1.258-2.241C23.449,15.745,28,13.6,28,9A7,7,0,0,0,21,2Zm0,9a2,2,0,1,1,2-2A2,2,0,0,1,21,11Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

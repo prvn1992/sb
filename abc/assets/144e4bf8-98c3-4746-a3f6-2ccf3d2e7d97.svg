@@ -1,0 +1,25 @@
+<svg id="Video_half" data-name="Video half" xmlns="http://www.w3.org/2000/svg" width="618" height="430" viewBox="0 0 618 430">
+  <g id="Video">
+    <rect id="Rectangle_744" data-name="Rectangle 744" width="618" height="430"/>
+    <g id="player_tab" transform="translate(0 366.647)">
+      <rect id="Rectangle_745" data-name="Rectangle 745" width="618" height="61" transform="translate(0 2.353)" fill="#585858"/>
+      <path id="play" d="M0,3.777,24.671,0,20.119,23.9Z" transform="translate(33.483 14.842) rotate(45)" fill="#fff"/>
+      <g id="timer">
+        <path id="Path_342" data-name="Path 342" d="M1994,8104h617.968" transform="translate(-1994 -8104)" fill="none" stroke="#fff" stroke-width="5" opacity="0.2"/>
+        <path id="Path_343" data-name="Path 343" d="M1994,8104h179.094" transform="translate(-1994 -8104)" fill="none" stroke="#5098bb" stroke-width="5"/>
+      </g>
+      <text id="_0:00_3:45" data-name="0:00 / 3:45" transform="translate(159 38.353)" fill="#fff" font-size="19" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-40.204" y="0">0:00 / 3:45</tspan></text>
+      <path id="sound" d="M3.18,5.407A3.124,3.124,0,0,0,0,8.587v6.361a3.124,3.124,0,0,0,3.18,3.18H5.937l6.785,5.407V0L5.937,5.407ZM21.2,11.768a8.773,8.773,0,0,0-2.438-6.043A1.049,1.049,0,0,0,17.28,7.209a6.666,6.666,0,0,1,0,9.117,1.025,1.025,0,0,0,0,1.484,1.025,1.025,0,0,0,1.484,0A8.773,8.773,0,0,0,21.2,11.768ZM19.719.318A1.14,1.14,0,0,0,18.235.53a1.14,1.14,0,0,0,.212,1.484,12.192,12.192,0,0,1,0,19.507,1.14,1.14,0,0,0-.212,1.484.964.964,0,0,0,.848.424,1.507,1.507,0,0,0,.636-.212,14.312,14.312,0,0,0,0-22.9Z" transform="translate(484.077 20.143)" fill="#fff"/>
+      <g id="fullscreen" transform="translate(558.479 20.143)">
+        <path id="Path_338" data-name="Path 338" d="M0,7.41V0H7.1" transform="translate(0 23.16) rotate(-90)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Path_341" data-name="Path 341" d="M0,7.41V0H7.1" transform="translate(21.192 0) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Path_339" data-name="Path 339" d="M1278,824.354v-7.41h7.1" transform="translate(-1277.848 -816.944)" fill="none" stroke="#fff" stroke-width="2"/>
+        <path id="Path_340" data-name="Path 340" d="M0,7.41V0H7.1" transform="translate(21.04 23.16) rotate(180)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="btn_play" transform="translate(248.123 139.299)">
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="62" cy="62" r="62" transform="translate(-0.123 -0.299)" fill="#fff" opacity="0.209"/>
+      <path id="Path_337" data-name="Path 337" d="M0,7.875,51.433,0,41.944,49.819Z" transform="translate(53.878 25.643) rotate(45)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303" height="145" viewBox="0 0 303 145">
+  <defs>
+    <filter id="Selectbox.BG" x="0" y="0" width="303" height="145" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Dropdown_Selected" data-name="Dropdown Selected" transform="translate(4.5 2.5)">
+    <g id="Selectbox.Filter">
+      <g transform="matrix(1, 0, 0, 1, -4.5, -2.5)" filter="url(#Selectbox.BG)">
+        <g id="Selectbox.BG-2" data-name="Selectbox.BG" transform="translate(4.5 2.5)" fill="#fff" stroke="#d7dae2" stroke-width="1">
+          <rect width="294" height="136" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="293" height="135" rx="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="small-down" transform="translate(281.961 20) rotate(180)">
+        <path id="Path_26" data-name="Path 26" d="M5.5,7,0,1.441,1.426,0,5.5,4.118,9.574,0,11,1.441Z" fill="#4f99bb"/>
+      </g>
+      <text id="Dropdown_option_1_Dropdown_option_2_Dropdown_option_3_Dropdown_option_4" data-name="Dropdown option 1
+Dropdown option 2
+Dropdown option 3
+Dropdown option 4" transform="translate(12 21)" fill="#4d4f5c" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Dropdown option 1</tspan><tspan x="0" y="32">Dropdown option 2</tspan><tspan x="0" y="64">Dropdown option 3</tspan><tspan x="0" y="96">Dropdown option 4</tspan></text>
+    </g>
+    <rect id="Rectangle_734" data-name="Rectangle 734" width="292" height="31" transform="translate(1 66)" fill="rgba(79,153,187,0.2)"/>
+  </g>
+</svg>

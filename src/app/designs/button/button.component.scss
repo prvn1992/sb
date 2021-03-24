@@ -1,0 +1,30 @@
+.button {
+  font-family: var(--font-arial-16-pt-family);
+  font-weight: 700;
+  border: 0;
+  border-radius: 0.3em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+.button--primary {
+  color: var(--color-ffffff);
+  background-color: var(--color-primary-button);
+}
+.button--secondary {
+  color: var(--color-070707);
+  background-color: transparent;
+  box-shadow: var(--color-000000) 0px 0px 0px 1px inset;
+}
+.button--small {
+  font-size: 12px;
+  padding: 10px 20px;
+}
+.button--medium {
+  font-size: 14px;
+  padding: 12px 30px;
+}
+.button--large {
+  font-size: 16px;
+  padding: 15px 40px;
+}

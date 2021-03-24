@@ -1,0 +1,473 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="956" height="708" viewBox="0 0 956 708">
+  <defs>
+    <filter id="Rectangle_2166" x="0" y="0" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2349" x="0" y="280" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2349-2" x="0" y="70" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2350" x="0" y="350" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2350-2" x="0" y="490" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2350-3" x="0" y="560" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2350-4" x="0" y="630" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2348" x="0" y="140" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2352" x="0" y="420" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2347" x="0" y="210" width="956" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_241" data-name="Component 241" transform="translate(9 8)">
+    <g id="Component_233_1" data-name="Component 233 – 1">
+      <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2166)">
+        <rect id="Rectangle_2166-2" data-name="Rectangle 2166" width="938" height="60" rx="2" transform="translate(9 8)" fill="#fff"/>
+      </g>
+      <g id="Group_4617" data-name="Group 4617" transform="translate(2122 -3625)">
+        <g id="Rectangle_166" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4618" data-name="Group 4618" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06" data-name="WG011/06" transform="translate(10 35)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26" transform="translate(150 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <g id="Component_364_23" data-name="Component 364 – 23" transform="translate(422 21)">
+        <rect id="Rectangle_2293" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#c94043"/>
+        <g id="Component_358_2" data-name="Component 358 – 2" transform="translate(10 4)">
+          <text id="Outside_Limits" data-name="Outside Limits" transform="translate(35 9)" fill="#fff" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.727" y="0">Outside Limits</tspan></text>
+        </g>
+      </g>
+      <text id="May_14_2020_09:12" data-name="May 14 2020, 09:12" transform="translate(552 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100" data-name="1100" transform="translate(337 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT" transform="translate(269 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+    </g>
+    <g id="Component_237_1" data-name="Component 237 – 1" transform="translate(0 280)">
+      <g transform="matrix(1, 0, 0, 1, -9, -288)" filter="url(#Rectangle_2349)">
+        <rect id="Rectangle_2349-3" data-name="Rectangle 2349" width="938" height="60" rx="2" transform="translate(9 288)" fill="#fff"/>
+      </g>
+      <g id="Group_4625" data-name="Group 4625" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-2" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-2" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-2" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-2" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4626" data-name="Group 4626" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-2" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-2" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-2" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-2" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-2" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-2" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="Waiting_to_sync_" data-name="Waiting to sync…" transform="translate(10 47)" fill="#e35100" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Waiting to sync…</tspan></text>
+      <text id="WG011_06-2" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-2" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <g id="Component_364_24" data-name="Component 364 – 24" transform="translate(422 10)">
+        <rect id="Rectangle_2293-2" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#c94043"/>
+        <g id="Component_358_2-2" data-name="Component 358 – 2" transform="translate(10 4)">
+          <text id="Outside_Limits-2" data-name="Outside Limits" transform="translate(35 9)" fill="#fff" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.727" y="0">Outside Limits</tspan></text>
+        </g>
+      </g>
+      <text id="May_14_2020_09:12-2" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-2" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-2" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+    </g>
+    <g id="Component_237_2" data-name="Component 237 – 2" transform="translate(0 70)">
+      <g transform="matrix(1, 0, 0, 1, -9, -78)" filter="url(#Rectangle_2349-2)">
+        <rect id="Rectangle_2349-4" data-name="Rectangle 2349" width="938" height="60" rx="2" transform="translate(9 78)" fill="#fff"/>
+      </g>
+      <g id="Group_4625-2" data-name="Group 4625" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-3" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-3" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-3" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-3" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4626-2" data-name="Group 4626" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-3" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-3" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-3" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-3" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-3" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-3" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="Waiting_to_sync_2" data-name="Waiting to sync…" transform="translate(10 47)" fill="#e35100" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Waiting to sync…</tspan></text>
+      <text id="WG011_06-3" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-3" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <g id="Component_364_24-2" data-name="Component 364 – 24" transform="translate(422 10)">
+        <rect id="Rectangle_2293-3" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#c94043"/>
+        <g id="Component_358_2-3" data-name="Component 358 – 2" transform="translate(10 4)">
+          <text id="Outside_Limits-3" data-name="Outside Limits" transform="translate(35 9)" fill="#fff" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.727" y="0">Outside Limits</tspan></text>
+        </g>
+      </g>
+      <text id="May_14_2020_09:12-3" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-3" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-3" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+    </g>
+    <g id="Component_238_1" data-name="Component 238 – 1" transform="translate(0 350)">
+      <g transform="matrix(1, 0, 0, 1, -9, -358)" filter="url(#Rectangle_2350)">
+        <rect id="Rectangle_2350-5" data-name="Rectangle 2350" width="938" height="60" rx="2" transform="translate(9 358)" fill="#fff"/>
+      </g>
+      <g id="Group_4627" data-name="Group 4627" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-4" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-4" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-4" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-4" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4628" data-name="Group 4628" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-4" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-4" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-4" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-4" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-4" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-4" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06-4" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-4" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-4" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-4" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-4" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_363_13" data-name="Component 363 – 13" transform="translate(422 10)">
+        <rect id="Rectangle_2293-4" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#e4b720"/>
+        <g id="Component_358_3" data-name="Component 358 – 3" transform="translate(10 4)">
+          <text id="Nearing_Limits" data-name="Nearing Limits" transform="translate(35 9)" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.729" y="0">Nearing Limits</tspan></text>
+        </g>
+      </g>
+      <text id="Pending_Review" data-name="Pending Review" transform="translate(10 47)" fill="#7f1f7d" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Pending Review</tspan></text>
+    </g>
+    <g id="Component_238_2" data-name="Component 238 – 2" transform="translate(0 490)">
+      <g transform="matrix(1, 0, 0, 1, -9, -498)" filter="url(#Rectangle_2350-2)">
+        <rect id="Rectangle_2350-6" data-name="Rectangle 2350" width="938" height="60" rx="2" transform="translate(9 498)" fill="#fff"/>
+      </g>
+      <g id="Group_4627-2" data-name="Group 4627" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-5" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-5" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-5" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-5" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4628-2" data-name="Group 4628" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-5" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-5" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-5" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-5" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-5" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-5" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06-5" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-5" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-5" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-5" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-5" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_363_13-2" data-name="Component 363 – 13" transform="translate(422 10)">
+        <rect id="Rectangle_2293-5" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#e4b720"/>
+        <g id="Component_358_3-2" data-name="Component 358 – 3" transform="translate(10 4)">
+          <text id="Nearing_Limits-2" data-name="Nearing Limits" transform="translate(35 9)" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.729" y="0">Nearing Limits</tspan></text>
+        </g>
+      </g>
+      <text id="Pending_Review-2" data-name="Pending Review" transform="translate(10 47)" fill="#7f1f7d" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Pending Review</tspan></text>
+    </g>
+    <g id="Component_238_3" data-name="Component 238 – 3" transform="translate(0 560)">
+      <g transform="matrix(1, 0, 0, 1, -9, -568)" filter="url(#Rectangle_2350-3)">
+        <rect id="Rectangle_2350-7" data-name="Rectangle 2350" width="938" height="60" rx="2" transform="translate(9 568)" fill="#fff"/>
+      </g>
+      <g id="Group_4627-3" data-name="Group 4627" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-6" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-6" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-6" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-6" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4628-3" data-name="Group 4628" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-6" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-6" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-6" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-6" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-6" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-6" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06-6" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-6" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-6" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-6" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-6" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_363_13-3" data-name="Component 363 – 13" transform="translate(422 10)">
+        <rect id="Rectangle_2293-6" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#e4b720"/>
+        <g id="Component_358_3-3" data-name="Component 358 – 3" transform="translate(10 4)">
+          <text id="Nearing_Limits-3" data-name="Nearing Limits" transform="translate(35 9)" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.729" y="0">Nearing Limits</tspan></text>
+        </g>
+      </g>
+      <text id="Pending_Review-3" data-name="Pending Review" transform="translate(10 47)" fill="#7f1f7d" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Pending Review</tspan></text>
+    </g>
+    <g id="Component_238_4" data-name="Component 238 – 4" transform="translate(0 630)">
+      <g transform="matrix(1, 0, 0, 1, -9, -638)" filter="url(#Rectangle_2350-4)">
+        <rect id="Rectangle_2350-8" data-name="Rectangle 2350" width="938" height="60" rx="2" transform="translate(9 638)" fill="#fff"/>
+      </g>
+      <g id="Group_4627-4" data-name="Group 4627" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-7" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-7" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-7" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-7" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4628-4" data-name="Group 4628" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-7" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-7" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-7" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-7" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-7" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-7" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06-7" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-7" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-7" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-7" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-7" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_363_13-4" data-name="Component 363 – 13" transform="translate(422 10)">
+        <rect id="Rectangle_2293-7" data-name="Rectangle 2293" width="90" height="19" rx="9.5" fill="#e4b720"/>
+        <g id="Component_358_3-4" data-name="Component 358 – 3" transform="translate(10 4)">
+          <text id="Nearing_Limits-4" data-name="Nearing Limits" transform="translate(35 9)" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-34.729" y="0">Nearing Limits</tspan></text>
+        </g>
+      </g>
+      <text id="Pending_Review-4" data-name="Pending Review" transform="translate(10 47)" fill="#7f1f7d" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Pending Review</tspan></text>
+    </g>
+    <g id="Component_235_1" data-name="Component 235 – 1" transform="translate(0 140)">
+      <g transform="matrix(1, 0, 0, 1, -9, -148)" filter="url(#Rectangle_2348)">
+        <rect id="Rectangle_2348-2" data-name="Rectangle 2348" width="938" height="60" rx="2" transform="translate(9 148)" fill="#fff"/>
+      </g>
+      <g id="Group_4623" data-name="Group 4623" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-8" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-8" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-8" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-8" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4624" data-name="Group 4624" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-8" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-8" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-8" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-8" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-8" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-8" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06-8" data-name="WG011/06" transform="translate(10 35)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-8" data-name="CE26" transform="translate(150 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-8" data-name="May 14 2020, 09:12" transform="translate(552 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-8" data-name="1100" transform="translate(337 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-8" data-name="HDT" transform="translate(269 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_362_21" data-name="Component 362 – 21" transform="translate(422 21)">
+        <rect id="Rectangle_2293-8" data-name="Rectangle 2293" width="82" height="19" rx="9.5" fill="#8dca61"/>
+        <g id="Component_358_4" data-name="Component 358 – 4" transform="translate(10 4)">
+          <text id="Within_Limits" data-name="Within Limits" transform="translate(31 9)" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-31.34" y="0">Within Limits</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Component_239_1" data-name="Component 239 – 1" transform="translate(0 420)">
+      <g transform="matrix(1, 0, 0, 1, -9, -428)" filter="url(#Rectangle_2352)">
+        <rect id="Rectangle_2352-2" data-name="Rectangle 2352" width="938" height="60" rx="2" transform="translate(9 428)" fill="#fff"/>
+      </g>
+      <g id="Group_4631" data-name="Group 4631" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-9" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-9" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-9" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-9" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4632" data-name="Group 4632" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-9" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-9" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-9" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-9" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-9" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-9" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="Waiting_to_sync_3" data-name="Waiting to sync…" transform="translate(10 47)" fill="#e35100" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Waiting to sync…</tspan></text>
+      <text id="WG011_06-9" data-name="WG011/06" transform="translate(10 23)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-9" data-name="CE26" transform="translate(150 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-9" data-name="May 14 2020, 09:12" transform="translate(552 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-9" data-name="1100" transform="translate(337 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-9" data-name="HDT" transform="translate(269 21)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_362_23" data-name="Component 362 – 23" transform="translate(422 9)">
+        <rect id="Rectangle_2293-9" data-name="Rectangle 2293" width="82" height="19" rx="9.5" fill="#8dca61"/>
+        <g id="Component_358_4-2" data-name="Component 358 – 4" transform="translate(10 4)">
+          <text id="Within_Limits-2" data-name="Within Limits" transform="translate(31 9)" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-31.34" y="0">Within Limits</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Component_236_1" data-name="Component 236 – 1" transform="translate(0 210)">
+      <g transform="matrix(1, 0, 0, 1, -9, -218)" filter="url(#Rectangle_2347)">
+        <rect id="Rectangle_2347-2" data-name="Rectangle 2347" width="938" height="60" rx="2" transform="translate(9 218)" fill="#fff"/>
+      </g>
+      <g id="Group_4621" data-name="Group 4621" transform="translate(2122 -3625)">
+        <g id="Rectangle_166-10" data-name="Rectangle 166" transform="translate(-1402 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3887-10" data-name="Group 3887" transform="translate(-1390 3647)">
+          <text id="View-10" data-name="View" transform="translate(52.001 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-17.195" y="0">View</tspan></text>
+          <path id="Union_34-10" data-name="Union 34" d="M14.327,14.869H14.31v0C7.875,14.838,2.954,10.962.7,8.779A1.892,1.892,0,0,1,0,7.311,2.555,2.555,0,0,1,1.052,5.622C3.813,3.376,8.465.114,14.307,0h.035C20.192.111,24.836,3.376,27.6,5.622a2.554,2.554,0,0,1,1.048,1.688,1.888,1.888,0,0,1-.7,1.469c-2.255,2.183-7.162,6.059-13.607,6.087v0ZM8.608,7.434A5.719,5.719,0,1,0,14.327,1.68,5.759,5.759,0,0,0,8.608,7.434Zm5.719,2.234-.018,0v0a2.236,2.236,0,0,1,0-4.472h.035a2.236,2.236,0,0,1,0,4.472v0Z" transform="translate(0 0.999)" fill="#1d7880"/>
+        </g>
+      </g>
+      <g id="Group_4622" data-name="Group 4622" transform="translate(2127 -3625)">
+        <g id="Rectangle_2158-10" data-name="Rectangle 2158" transform="translate(-1293 3635)" fill="#fff" stroke="#1d7880" stroke-width="1">
+          <rect width="94" height="40" rx="2" stroke="none"/>
+          <rect x="0.5" y="0.5" width="93" height="39" rx="1.5" fill="none"/>
+        </g>
+        <g id="Group_3886-10" data-name="Group 3886" transform="translate(-1283 3646.5)">
+          <text id="Survey-10" data-name="Survey" transform="translate(47 14)" fill="#1d7880" font-size="16" font-family="ArialMT, Arial"><tspan x="-24.898" y="0">Survey</tspan></text>
+          <g id="Group_3885-10" data-name="Group 3885" transform="translate(0 0)">
+            <path id="Path_1463-10" data-name="Path 1463" d="M17.609,17.5a.63.63,0,0,1-.63.63H6.891a.63.63,0,0,1-.63-.63V4.261h6.3V3H5V17.5a1.891,1.891,0,0,0,1.891,1.891H16.978A1.891,1.891,0,0,0,18.869,17.5V9.3H17.609Z" transform="translate(-5 -2.391)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+            <path id="Path_1464-10" data-name="Path 1464" d="M23.01,2.567a1.942,1.942,0,0,0-2.673,0l-3.707,3.7L16,9.609l3.31-.662,3.7-3.7a1.891,1.891,0,0,0,0-2.679ZM18.686,7.781,17.576,8l.221-1.11,2.093-2.1.9.9Zm3.436-3.43-.448.441L20.785,3.9l.441-.448h0a.633.633,0,1,1,.9.9Z" transform="translate(-9.065 -2.034)" fill="#1d7880"/>
+          </g>
+        </g>
+      </g>
+      <text id="WG011_06-10" data-name="WG011/06" transform="translate(10 35)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.8"><tspan x="0" y="0">WG011/06</tspan></text>
+      <text id="CE26-10" data-name="CE26" transform="translate(150 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">CE26</tspan></text>
+      <text id="May_14_2020_09:12-10" data-name="May 14 2020, 09:12" transform="translate(552 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">May 14 2020, 09:12</tspan></text>
+      <text id="_1100-10" data-name="1100" transform="translate(337 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">1100</tspan></text>
+      <text id="HDT-10" data-name="HDT" transform="translate(269 34)" fill="#585858" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">HDT</tspan></text>
+      <g id="Component_361_10" data-name="Component 361 – 10" transform="translate(422 21)">
+        <rect id="Rectangle_2293-10" data-name="Rectangle 2293" width="64" height="19" rx="9.5" fill="#4d4f5c"/>
+        <g id="Component_358_5" data-name="Component 358 – 5" transform="translate(10 4)">
+          <text id="Unknown" transform="translate(22 9)" fill="#fff" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-22.498" y="0">Unknown</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

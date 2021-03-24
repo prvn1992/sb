@@ -1,0 +1,24 @@
+<svg id="Alerts_-_2_Line_Title" data-name="Alerts - 2 Line Title" xmlns="http://www.w3.org/2000/svg" width="270" height="163" viewBox="0 0 270 163">
+  <g id="Background">
+    <rect id="Platter" width="270" height="163" rx="14" fill="rgba(242,242,242,0.8)"/>
+  </g>
+  <text id="Description" transform="translate(16 71)" font-size="13" font-family="Helvetica" letter-spacing="-0.008em"><tspan x="0.18" y="10">Please allow access to device location for </tspan><tspan x="72.838" y="26">best experience</tspan></text>
+  <text id="Title" transform="translate(16 19)" font-size="17" font-family="Helvetica" letter-spacing="-0.032em"><tspan x="57.68" y="13">This app requires </tspan><tspan x="64.694" y="35">location access</tspan></text>
+  <g id="Bottom_Actions" data-name="Bottom Actions" transform="translate(0 119)">
+    <g id="Right_Action" data-name="Right Action" transform="translate(134)">
+      <rect id="Frame" width="134" height="44" fill="#fff" opacity="0"/>
+      <text id="Label" transform="translate(67 28)" fill="#007aff" font-size="17" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="-19.496" y="0">Allow</tspan></text>
+    </g>
+    <g id="Left_Action" data-name="Left Action">
+      <rect id="Frame-2" data-name="Frame" width="134" height="44" fill="#fff" opacity="0"/>
+      <text id="Label-2" data-name="Label" transform="translate(67 28)" fill="#007aff" font-size="17" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="-25.439" y="0">Cancel</tspan></text>
+    </g>
+    <g id="Separator" transform="translate(134 0.5)">
+      <rect id="Separator-2" data-name="Separator" width="0.5" height="43.5" fill="rgba(60,60,67,0.29)"/>
+    </g>
+    <g id="Top_Border" data-name="Top Border">
+      <rect id="Frame-3" data-name="Frame" width="268" height="1" fill="#fff" opacity="0"/>
+      <rect id="Separator-3" data-name="Separator" width="268" height="0.5" fill="rgba(60,60,67,0.29)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="Radio_Button_focused" data-name="Radio Button focused" xmlns="http://www.w3.org/2000/svg" width="98" height="30" viewBox="0 0 98 30">
+  <text id="Focused" transform="translate(40 20)" fill="#43425d" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Focused</tspan></text>
+  <g id="Rectangle_710" data-name="Rectangle 710" fill="none" stroke="#5098bb" stroke-width="2">
+    <rect width="30" height="30" rx="15" stroke="none"/>
+    <rect x="1" y="1" width="28" height="28" rx="14" fill="none"/>
+  </g>
+</svg>

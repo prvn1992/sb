@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="480" viewBox="0 0 420 480">
+  <defs>
+    <filter id="BG" x="0" y="0" width="420" height="480" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Asset_Image_Grid_High" data-name="Asset Image Grid High" transform="translate(9 7)">
+    <g transform="matrix(1, 0, 0, 1, -9, -7)" filter="url(#BG)">
+      <rect id="BG-2" data-name="BG" width="402" height="462" transform="translate(9 7)" fill="#fff"/>
+    </g>
+    <g id="product_detail" data-name="product detail" transform="translate(0 350)">
+      <rect id="Rectangle_740" data-name="Rectangle 740" width="402" height="112" fill="#fff"/>
+      <text id="Asset_Name" data-name="Asset Name" transform="translate(20 38)" fill="#4d4f5c" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Asset Name</tspan></text>
+      <text id="Asset_Location_and_coordinates_Asset_description_._._." data-name="Asset Location and coordinates
+Asset description . . ." transform="translate(20 64)" fill="#4d4f5c" font-size="13" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Asset Location and coordinates</tspan><tspan x="0" y="20">Asset description . . .</tspan></text>
+    </g>
+    <path id="image" d="M0,0H402V350H0Z" fill="rgba(16,106,163,0.2)"/>
+    <g id="High_Risk_Label" data-name="High Risk Label">
+      <text id="Label.Content" transform="translate(39.906 17)" fill="#fff" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-23.998" y="0">MEDIUM</tspan></text>
+      <rect id="Rectangle_1471" data-name="Rectangle 1471" width="100" height="30" fill="#e35200"/>
+      <text id="HIGH" transform="translate(50 19.783)" fill="#fff" font-size="13" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-14.937" y="0">HIGH</tspan></text>
+    </g>
+    <g id="item" transform="translate(146 138)">
+      <g id="image-2" data-name="image">
+        <path id="Path_76" data-name="Path 76" d="M107.983,147.65h33.9a.99.99,0,0,0,.8-1.564l-16.96-27.271a.98.98,0,0,0-1.618,0l-16.942,27.271A1,1,0,0,0,107.983,147.65Zm34.506-10.311,6.222,9.9a.963.963,0,0,0,.8.427h9.458a.99.99,0,0,0,.8-1.564l-10.951-15.591a.98.98,0,0,0-1.618,0l-4.729,5.707A1.025,1.025,0,0,0,142.488,137.339Zm7.893-15.36a4.977,4.977,0,1,0-5.458-5.458A5,5,0,0,0,150.382,121.98Z" transform="translate(-96.498 -100.665)" fill="rgba(255,255,255,0.5)"/>
+        <path id="Path_77" data-name="Path 77" d="M116.265,48H53.689A5.683,5.683,0,0,0,48,53.689v62.576a5.683,5.683,0,0,0,5.689,5.689h62.576a5.683,5.683,0,0,0,5.689-5.689V53.689A5.683,5.683,0,0,0,116.265,48Zm-.48,49.777a1.426,1.426,0,0,1-1.422,1.422H55.591a1.426,1.426,0,0,1-1.422-1.422V55.591a1.426,1.426,0,0,1,1.422-1.422h58.79a1.426,1.426,0,0,1,1.422,1.422V97.777Z" transform="translate(-48 -48)" fill="rgba(255,255,255,0.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

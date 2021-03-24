@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="238" viewBox="0 0 312 238">
+  <defs>
+    <filter id="BG" x="25" y="0" width="287" height="238" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG-2" x="0" y="0" width="43" height="238" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Data_tile" data-name="Data tile" transform="translate(9 7)">
+    <g transform="matrix(1, 0, 0, 1, -9, -7)" filter="url(#BG)">
+      <rect id="BG-3" data-name="BG" width="269" height="220" transform="translate(34 7)" fill="#585858"/>
+    </g>
+    <text id="SERVICE_AFFECTING_FAILURES" data-name="SERVICE AFFECTING
+FAILURES" transform="translate(160 165)" fill="#fff" font-size="15" font-family="ArialMT, Arial"><tspan x="-76.959" y="0">SERVICE AFFECTING</tspan><tspan x="-36.262" y="17">FAILURES</tspan></text>
+    <text id="_722" data-name="722" transform="translate(160 104)" fill="#fff" font-size="65" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.02em"><tspan x="-52.925" y="0">722</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -9, -7)" filter="url(#BG-2)">
+      <rect id="BG-4" data-name="BG" width="25" height="220" transform="translate(9 7)" fill="#e35100"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="333.5" height="138.5" viewBox="0 0 333.5 138.5">
+  <defs>
+    <filter id="Selectbox.BG" x="0" y="89.5" width="49" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Selectbox.BG-2" x="169.999" y="48.5" width="16.626" height="30.768" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_306" data-name="Component 306" transform="translate(4.5)">
+    <g id="Selectbox.BG-3" data-name="Selectbox.BG" transform="translate(103 92)" fill="#fff" stroke="rgba(204,204,204,0.2)" stroke-width="1">
+      <rect width="224" height="40" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="223" height="39" rx="1.5" fill="none"/>
+    </g>
+    <text id="Enter_exception" data-name="Enter exception" transform="translate(113 116)" fill="#ccc" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Enter exception</tspan></text>
+    <text id="Other:" transform="translate(60 116)" font-size="12" font-family="ArialMT, Arial" opacity="0.5"><tspan x="0" y="0">Other:</tspan></text>
+    <text id="Structure_ID" data-name="Structure ID" transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Structure ID</tspan></text>
+    <text id="Provide_Structure_ID_of_the_Asset_-_eg:_C_013_25A_CSX114_05" data-name="Provide Structure ID of the Asset - eg: C 013/25A, CSX114/05" transform="translate(0 29)" fill="#939393" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Provide Structure ID of the Asset - eg: C 013/25A, CSX114/05</tspan></text>
+    <text id="_" data-name="*" transform="translate(77 13)" fill="#e35100" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">*</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -4.5, 0)" filter="url(#Selectbox.BG)">
+      <g id="Selectbox.BG-4" data-name="Selectbox.BG" transform="translate(4.5 92)" fill="#fff" stroke="#1d7880" stroke-width="1" opacity="0.5">
+        <rect width="40" height="40" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="39" height="39" rx="1.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_4280" data-name="Group 4280" transform="translate(-24 -567)">
+      <g id="Selectbox.BG-5" data-name="Selectbox.BG" transform="translate(24 609)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+        <rect width="150" height="40" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="149" height="39" rx="1.5" fill="none"/>
+      </g>
+      <g id="Group_4277" data-name="Group 4277" transform="translate(22461 -5265)">
+        <text id="_0" data-name="0" transform="translate(-22346 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">0</tspan></text>
+        <text id="_1" data-name="1" transform="translate(-22325 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">1</tspan></text>
+        <text id="_3" data-name="3" transform="translate(-22304 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">3</tspan></text>
+        <text id="A" transform="translate(-22427 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">A</tspan></text>
+        <text id="A-2" data-name="A" transform="translate(-22405 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">A</tspan></text>
+        <text id="A-3" data-name="A" transform="translate(-22384 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">A</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4279" data-name="Group 4279" transform="translate(-58 -567)">
+      <g id="Selectbox.BG-6" data-name="Selectbox.BG" transform="translate(256 609)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+        <rect width="85" height="40" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="84" height="39" rx="1.5" fill="none"/>
+      </g>
+      <g id="Group_4278" data-name="Group 4278" transform="translate(22471 -5265)">
+        <g id="Group_4030" data-name="Group 4030" transform="translate(-22205 5887)">
+          <text id="_0-2" data-name="0" transform="translate(0 11)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">0</tspan></text>
+          <text id="_0-3" data-name="0" transform="translate(20 11)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">0</tspan></text>
+        </g>
+        <text id="A-4" data-name="A" transform="translate(-22148 5898)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">A</tspan></text>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -4.5, 0)" filter="url(#Selectbox.BG-2)">
+      <g id="Selectbox.BG-7" data-name="Selectbox.BG" transform="matrix(0.97, 0.26, -0.26, 0.97, 180.19, 51)" fill="rgba(0,0,0,0.2)" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+        <rect width="2" height="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="1" height="21" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

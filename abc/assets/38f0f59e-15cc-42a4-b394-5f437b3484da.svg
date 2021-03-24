@@ -1,0 +1,403 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432" height="287.999" viewBox="0 0 432 287.999">
+  <defs>
+    <filter id="Background" x="384" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-2" x="344" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-3" x="302" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-4" x="261" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-5" x="219" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-5"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-6" x="178" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-7" x="136" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-7"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-8" x="95" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-9" x="53" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-10" x="12" y="58.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-10"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-11" x="364" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-12" x="323" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-12"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-13" x="282" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-14" x="240" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-15" x="199" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-15"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-16" x="157" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-16"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-17" x="115" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-17"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-18" x="74" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-18"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-19" x="32" y="118.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-19"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-20" x="323" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-20"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-21" x="282" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-21"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-22" x="240" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-22"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-23" x="199" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-23"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-24" x="157" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-24"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-25" x="116" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-25"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-26" x="74" y="178.999" width="35" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-26"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-27" x="12" y="178.999" width="45" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-27"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-27"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Background-28" x="373" y="178.999" width="46" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-28"/>
+      <feFlood flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur-28"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key" x="323.088" y="236.111" width="96.6" height="47.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-29"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-29"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-2" x="114.984" y="236.111" width="201.335" height="47.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-30"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-30"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Key-3" x="12.312" y="236.111" width="94.877" height="47.368" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-31"/>
+      <feFlood flood-color="#04040f" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-31"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_763" x="0" y="0" width="432" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-32"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-32"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1195" x="279" y="11.348" width="19.606" height="39.894" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-33"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-33"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1196" x="133" y="11.348" width="19.606" height="39.894" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-34"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-34"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_116" data-name="Component 116" transform="translate(9 10)">
+    <g id="Keyboards_Default" data-name="Keyboards / Default" transform="translate(0 39.535)">
+      <g id="Background-29" data-name="Background">
+        <rect id="Background-30" data-name="Background" width="414" height="238" transform="translate(0 0.464)" fill="rgba(210,213,219,0.94)"/>
+      </g>
+      <g id="First_Row" data-name="First Row" transform="translate(3.312 9.936)">
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background)">
+          <path id="Background-31" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(384 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-2)">
+          <path id="Background-32" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(344 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-3)">
+          <path id="Background-33" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(302 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-4)">
+          <path id="Background-34" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(261 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-5)">
+          <path id="Background-35" data-name="Background" d="M2.635,46h0A6.315,6.315,0,0,1,0,40.523V6.383A6.5,6.5,0,0,1,1.841,1.735,6.55,6.55,0,0,1,6.421,0H29.568A6.294,6.294,0,0,1,35,2.639V44.456A5.6,5.6,0,0,1,33.459,46Z" transform="translate(219 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-6)">
+          <path id="Background-36" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(178 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-7)">
+          <path id="Background-37" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(136 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-8)">
+          <path id="Background-38" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(95 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-9)">
+          <path id="Background-39" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(53 59)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -59.47)" filter="url(#Background-10)">
+          <path id="Background-40" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(12 59)" fill="#fff"/>
+        </g>
+        <text id="P" transform="translate(388.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">P</tspan></text>
+        <text id="O" transform="translate(348.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-9.723" y="0">O</tspan></text>
+        <text id="I" transform="translate(306.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-3.473" y="0">I</tspan></text>
+        <text id="U" transform="translate(266.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-9.027" y="0">U</tspan></text>
+        <text id="Y" transform="translate(223.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">Y</tspan></text>
+        <text id="T" transform="translate(182.688 30.528)" fill="#191919" font-size="24" font-family="Helvetica"><tspan x="-7.33" y="0">T</tspan></text>
+        <text id="R" transform="translate(141.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-9.027" y="0">R</tspan></text>
+        <text id="E" transform="translate(99.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">E</tspan></text>
+        <text id="W" transform="translate(58.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-11.798" y="0">W</tspan></text>
+        <text id="Q" transform="translate(17.688 31.528)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-9.723" y="0">Q</tspan></text>
+      </g>
+      <g id="Second_Row" data-name="Second Row" transform="translate(23.184 69.552)">
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-11)">
+          <path id="Background-41" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(364 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-12)">
+          <path id="Background-42" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(323 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-13)">
+          <path id="Background-43" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(282 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-14)">
+          <path id="Background-44" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(240 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-15)">
+          <path id="Background-45" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(199 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-16)">
+          <path id="Background-46" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(157 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-17)">
+          <path id="Background-47" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(115 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-18)">
+          <path id="Background-48" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(74 119)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -32.18, -119.09)" filter="url(#Background-19)">
+          <path id="Background-49" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(32 119)" fill="#fff"/>
+        </g>
+        <text id="L" transform="translate(349.344 30.42)" fill="#191919" font-size="23" font-family="Helvetica"><tspan x="-6.396" y="0">L</tspan></text>
+        <text id="K" transform="translate(307.184 31.42)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">K</tspan></text>
+        <text id="J" transform="translate(266.544 31.42)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-6.25" y="0">J</tspan></text>
+        <text id="H" transform="translate(224.384 30.42)" fill="#191919" font-size="23" font-family="Helvetica"><tspan x="-8.305" y="0">H</tspan></text>
+        <text id="G" transform="translate(183.432 30.42)" fill="#191919" font-size="24" font-family="Helvetica"><tspan x="-9.334" y="0">G</tspan></text>
+        <text id="F" transform="translate(141.688 30.42)" fill="#191919" font-size="24" font-family="Helvetica"><tspan x="-7.33" y="0">F</tspan></text>
+        <text id="D" transform="translate(99.632 30.42)" fill="#191919" font-size="23" font-family="Helvetica"><tspan x="-8.305" y="0">D</tspan></text>
+        <text id="S" transform="translate(58.784 31.42)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">S</tspan></text>
+        <text id="A" transform="translate(16.832 31.42)" fill="#191919" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">A</tspan></text>
+      </g>
+      <g id="Third_Row" data-name="Third Row" transform="translate(3.312 129.168)">
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-20)">
+          <path id="Background-50" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(323 179)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-21)">
+          <path id="Background-51" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(282 179)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-22)">
+          <path id="Background-52" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(240 179)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-23)">
+          <path id="Background-53" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(199 179)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-24)">
+          <path id="Background-54" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(157 179)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-25)">
+          <path id="Background-55" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(116 179)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-26)">
+          <path id="Background-56" data-name="Background" d="M5.976,46A5.64,5.64,0,0,1,0,39.977V5.843A5.957,5.957,0,0,1,1.69,1.588,6,6,0,0,1,5.879,0H29.024A5.641,5.641,0,0,1,35,6.024V39.977A5.638,5.638,0,0,1,29.094,46Z" transform="translate(74 179)" fill="#fff"/>
+        </g>
+        <g id="Shift" transform="translate(0 0)">
+          <g transform="matrix(1, 0, 0, 1, -12.31, -178.7)" filter="url(#Background-27)">
+            <path id="Background-57" data-name="Background" d="M40.989,46H5.855a5.973,5.973,0,0,1-4.264-1.692A6.05,6.05,0,0,1,0,39.975V5.843A5.946,5.946,0,0,1,1.7,1.588,6.034,6.034,0,0,1,5.9,0H38.992A5.65,5.65,0,0,1,45,6.024V39.975A5.65,5.65,0,0,1,38.971,46h2.018Z" transform="translate(12 179)" fill="#fff"/>
+          </g>
+          <path id="Shift-2" data-name="Shift" d="M11.3-15.764a1.1,1.1,0,0,0-1.557,0L.5-6.514c-.863.863-.572,1.563.642,1.563H5.558V.579a1.1,1.1,0,0,0,1.1,1.094h7.733a1.1,1.1,0,0,0,1.1-1.094v-5.53h4.418c1.218,0,1.507-.7.642-1.563Z" transform="translate(12.144 30.343)" fill-rule="evenodd"/>
+        </g>
+        <text id="M" transform="translate(326.848 31.42)" font-size="25" font-family="Helvetica"><tspan x="-10.413" y="0">M</tspan></text>
+        <text id="N" transform="translate(286.208 30.42)" font-size="23" font-family="Helvetica"><tspan x="-8.305" y="0">N</tspan></text>
+        <text id="B" transform="translate(244.256 31.42)" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">B</tspan></text>
+        <text id="V" transform="translate(203.463 31.42)" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">V</tspan></text>
+        <text id="C" transform="translate(161.456 30.42)" font-size="23" font-family="Helvetica"><tspan x="-8.305" y="0">C</tspan></text>
+        <text id="X" transform="translate(120.608 31.42)" font-size="25" font-family="Helvetica"><tspan x="-8.337" y="0">X</tspan></text>
+        <text id="Z" transform="translate(78.76 30.42)" font-size="24" font-family="Helvetica"><tspan x="-7.33" y="0">Z</tspan></text>
+        <g id="Delete" transform="translate(361.008 0)">
+          <g transform="matrix(1, 0, 0, 1, -373.32, -178.7)" filter="url(#Background-28)">
+            <path id="Background-58" data-name="Background" d="M42,46H5.843a5.954,5.954,0,0,1-4.255-1.692A6.057,6.057,0,0,1,0,39.975V5.843A5.953,5.953,0,0,1,1.692,1.588,6.014,6.014,0,0,1,5.888,0H40.006A5.644,5.644,0,0,1,46,6.024V39.975A5.644,5.644,0,0,1,39.984,46H42Z" transform="translate(373 179)" fill="#abb3bd"/>
+          </g>
+          <path id="Icon" d="M9.155,18.769a1.113,1.113,0,0,1-.78-.323l-7.89-7.89a1.656,1.656,0,0,1,0-2.342L8.375.324A1.114,1.114,0,0,1,9.155,0H21.394a3.868,3.868,0,0,1,3.864,3.864V14.9a3.868,3.868,0,0,1-3.864,3.865ZM9.088,1.819,2.3,8.6a1.1,1.1,0,0,0,0,1.562l6.785,6.785a.549.549,0,0,0,.391.162H21.394A2.211,2.211,0,0,0,23.6,14.9V3.865a2.21,2.21,0,0,0-2.208-2.208H9.479A.549.549,0,0,0,9.088,1.819Zm9.446,11.835-3.122-3.122L12.29,13.654a.828.828,0,1,1-1.171-1.171l3.123-3.122L11.119,6.238A.828.828,0,1,1,12.29,5.067L15.412,8.19l3.123-3.123a.828.828,0,0,1,1.171,1.171L16.583,9.361l3.122,3.122a.828.828,0,0,1-1.171,1.171Z" transform="translate(10.486 13.799)"/>
+        </g>
+      </g>
+      <g id="Bottom_Row" data-name="Bottom Row" transform="translate(3.312 186.576)">
+        <g id="Label" transform="translate(310.776)">
+          <g transform="matrix(1, 0, 0, 1, -323.09, -236.11)" filter="url(#Key)">
+            <rect id="Key-4" data-name="Key" width="96.6" height="46.368" rx="5" transform="translate(323.09 236.11)" fill="#1d7880"/>
+          </g>
+          <text id="Label-2" data-name="Label" transform="translate(47.048 27.904)" fill="#fff" font-size="17" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="-24.662" y="0">Return</tspan></text>
+        </g>
+        <g id="Space" transform="translate(102.672)">
+          <g transform="matrix(1, 0, 0, 1, -114.98, -236.11)" filter="url(#Key-2)">
+            <rect id="Key-5" data-name="Key" width="201.335" height="46.368" rx="5" transform="translate(114.98 236.11)" fill="#fefefe"/>
+          </g>
+          <text id="space-2" data-name="space" transform="translate(77.425 11.592)" font-size="16" font-family="Helvetica"><tspan x="3.58" y="12" letter-spacing="-0.02em">spac</tspan><tspan y="12">e</tspan></text>
+        </g>
+        <g id="_123" data-name="123">
+          <g transform="matrix(1, 0, 0, 1, -12.31, -236.11)" filter="url(#Key-3)">
+            <rect id="Key-6" data-name="Key" width="94.877" height="46.368" rx="5" transform="translate(12.31 236.11)" fill="#abb3bd"/>
+          </g>
+          <text id="_123-2" data-name="123" transform="translate(31.949 12.696)" font-size="16" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="1.876" y="12">123</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -10)" filter="url(#Rectangle_763)">
+      <rect id="Rectangle_763-2" data-name="Rectangle 763" width="414" height="40" transform="translate(9 10)" fill="#f2f2f2"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -10)" filter="url(#Path_1195)">
+      <path id="Path_1195-2" data-name="Path 1195" d="M2.781,11.189H1.176V-10.705H2.781Z" transform="translate(286.82 30.05)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -10)" filter="url(#Path_1196)">
+      <path id="Path_1196-2" data-name="Path 1196" d="M2.781,11.189H1.176V-10.705H2.781Z" transform="translate(140.82 30.05)" fill="#fff"/>
+    </g>
+    <text id="I-2" data-name="I" transform="translate(62 26)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">I</tspan></text>
+    <text id="Hi" transform="translate(201 26)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hi</tspan></text>
+    <text id="Hey" transform="translate(340 26)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Hey</tspan></text>
+  </g>
+</svg>

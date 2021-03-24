@@ -1,0 +1,34 @@
+{
+  "color": {
+    "#C94043": {
+      "value": "#C94043ff"
+    },
+    "#51ACB8": {
+      "value": "#51ACB8ff"
+    },
+    "#AE174D": {
+      "value": "#AE174Dff"
+    },
+    "#FFFFFF": {
+      "value": "#FFFFFFff"
+    },
+    "#070707": {
+      "value": "#070707ff"
+    },
+    "#AAAAAA": {
+      "value": "#AAAAAAff"
+    },
+    "#1D7880": {
+      "value": "#1D7880ff"
+    },
+    "#000000": {
+      "value": "#000000ff"
+    },
+    "#004D71": {
+      "value": "#004D71ff"
+    },
+    "Primary_Button": {
+      "value": "#E200FFff"
+    }
+  }
+}

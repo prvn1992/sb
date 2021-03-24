@@ -1,0 +1,5 @@
+<svg id="Component_95" data-name="Component 95" xmlns="http://www.w3.org/2000/svg" width="194" height="16" viewBox="0 0 194 16">
+  <text id="_Expand_all" data-name="[+] Expand all" transform="translate(0 13)" fill="#005172" font-size="14" font-family="ArialMT, Arial" opacity="0.997"><tspan x="0" y="0">[+] Expand all</tspan></text>
+  <text id="_" data-name="/" transform="translate(93 13)" font-size="14" font-family="ArialMT, Arial" opacity="0.997"><tspan x="0" y="0">/</tspan></text>
+  <text id="_-_Collapse_all" data-name="[-] Collapse all" transform="translate(105 13)" fill="#005172" font-size="14" font-family="ArialMT, Arial" opacity="0.997"><tspan x="0" y="0">[-] Collapse all</tspan></text>
+</svg>

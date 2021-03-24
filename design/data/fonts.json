@@ -1,0 +1,172 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Praveen ",
+  "last_updated": "2021-03-23T04:30:24.035Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "1a9a29aa-b00e-4df7-9a1d-90218e51c758",
+      "name": "Arial — 12pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "fc149c0f-4c11-4fa3-afb3-dd1b060225bb",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "bbb89bcb-ed9e-4292-b6fd-5c0a2c663746",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "bbb89bcb-ed9e-4292-b6fd-5c0a2c663746",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "bbb89bcb-ed9e-4292-b6fd-5c0a2c663746",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "f2152a0e-1d6c-4581-9cee-32b41733cf5f",
+      "name": "Arial — 16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "42ec2df6-17ad-4563-8340-1ab4d62cd2bc",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "cbfce7ac-8d5e-49aa-aa36-296bf7fd78ed",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "cbfce7ac-8d5e-49aa-aa36-296bf7fd78ed",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "cbfce7ac-8d5e-49aa-aa36-296bf7fd78ed",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "132c0bac-e156-4322-a88a-5f05b7232f3a",
+      "name": "Arial — 24pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "ca27da15-d1d2-4dce-857e-d2b977bdd3cc",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "72d39f61-6e23-4086-afb3-555443a66598",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "72d39f61-6e23-4086-afb3-555443a66598",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "72d39f61-6e23-4086-afb3-555443a66598",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "7c42b9ff-dca0-4301-ab6c-269588e8cf16",
+      "name": "Arial — 20pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "b7225986-0a62-41fe-a706-000b7b3f3348",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "20b63b54-57d0-457d-9ffe-9af2d0213dfd",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "20b63b54-57d0-457d-9ffe-9af2d0213dfd",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "20b63b54-57d0-457d-9ffe-9af2d0213dfd",
+          "type": "size",
+          "value": "20",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "4f793fe9-2cee-469e-bb28-3f2dee63562b",
+      "name": "Arial — 16pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "aa9f678b-e00b-43fc-914c-b83f1c1f70c7",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "46cc039b-4b54-471b-b1c6-83d05b6c9be4",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "46cc039b-4b54-471b-b1c6-83d05b6c9be4",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "46cc039b-4b54-471b-b1c6-83d05b6c9be4",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

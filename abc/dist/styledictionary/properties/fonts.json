@@ -1,0 +1,63 @@
+{
+  "font": {
+    "Arial — 14pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Network Rail Sans — 20pt": {
+      "family": {
+        "value": "Network Rail Sans"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Arial — 16pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Network Rail Sans — 25pt": {
+      "family": {
+        "value": "Network Rail Sans"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Network Rail Sans — 22pt": {
+      "family": {
+        "value": "Network Rail Sans"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Arial — 14pt": {
+        "value": "14"
+      },
+      "Network Rail Sans — 20pt": {
+        "value": "20"
+      },
+      "Arial — 16pt": {
+        "value": "16"
+      },
+      "Network Rail Sans — 25pt": {
+        "value": "25"
+      },
+      "Network Rail Sans — 22pt": {
+        "value": "22"
+      }
+    }
+  }
+}

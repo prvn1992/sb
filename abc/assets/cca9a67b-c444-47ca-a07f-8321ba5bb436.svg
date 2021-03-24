@@ -1,0 +1,12 @@
+<svg id="Main_Navigation_Horizontal" data-name="Main Navigation Horizontal" xmlns="http://www.w3.org/2000/svg" width="1440" height="90" viewBox="0 0 1440 90">
+  <path id="Background" d="M0,0H1440V90H0Z" transform="translate(0)" fill="#fff"/>
+  <text id="HOME" transform="translate(40 43)" fill="#e35100" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">HOME</tspan></text>
+  <text id="ASSET_PROFILE" data-name="ASSET PROFILE" transform="translate(126 43)" fill="#106aa3" font-size="16" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">ASSET PROFILE</tspan></text>
+  <text id="ASSET_HISTORY" data-name="ASSET HISTORY" transform="translate(277 43)" fill="#106aa3" font-size="16" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">ASSET HISTORY</tspan></text>
+  <text id="FAILURE_HISTORY" data-name="FAILURE HISTORY" transform="translate(430 43)" fill="#106aa3" font-size="16" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">FAILURE HISTORY</tspan></text>
+  <text id="PREDICT_PREVENT" data-name="PREDICT &amp; PREVENT" transform="translate(597 43)" fill="#106aa3" font-size="16" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">PREDICT &amp; PREVENT</tspan></text>
+  <text id="INTERVENTIONS" transform="translate(785 43)" fill="#106aa3" font-size="16" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">INTERVENTIONS</tspan></text>
+  <text id="COMPETENCIES" transform="translate(945 43)" fill="#106aa3" font-size="16" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">COMPETENCIES</tspan></text>
+  <path id="Path_296" data-name="Path 296" d="M119.748,3351.976h1440" transform="translate(-119.748 -3276.976)" fill="none" stroke="#e9e9f0" stroke-width="2"/>
+  <rect id="Rectangle_738" data-name="Rectangle 738" width="57" height="2" transform="translate(35 74)" fill="#4f99bb"/>
+</svg>

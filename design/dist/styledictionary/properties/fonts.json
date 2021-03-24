@@ -1,0 +1,52 @@
+{
+  "font": {
+    "Arial — 12pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Arial — 16pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Arial — 24pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    },
+    "Arial — 20pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Bold"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Arial — 12pt": {
+        "value": "12"
+      },
+      "Arial — 16pt": {
+        "value": "16"
+      },
+      "Arial — 24pt": {
+        "value": "24"
+      },
+      "Arial — 20pt": {
+        "value": "20"
+      }
+    }
+  }
+}

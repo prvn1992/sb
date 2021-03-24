@@ -1,0 +1,11 @@
+<svg id="Component_273" data-name="Component 273" xmlns="http://www.w3.org/2000/svg" width="133" height="44" viewBox="0 0 133 44">
+  <g id="Rectangle_166" data-name="Rectangle 166" fill="#fff" stroke="#1d7880" stroke-width="1">
+    <rect width="133" height="44" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="132" height="43" rx="3.5" fill="none"/>
+  </g>
+  <text id="View_More" data-name="View More" transform="translate(54 27.5)" fill="#1d7880" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-39.422" y="0">View More</tspan></text>
+  <g id="Group_7289" data-name="Group 7289" transform="translate(-12)">
+    <path id="Path_5522" data-name="Path 5522" d="M5.136,0,0,4.511,1.332,5.68l3.8-3.341,3.8,3.341,1.332-1.169Z" transform="translate(129.882 27.44) rotate(180)" fill="#1d7880"/>
+    <path id="Path_5523" data-name="Path 5523" d="M5.136,0,0,4.511,1.332,5.68l3.8-3.341,3.8,3.341,1.332-1.169Z" transform="translate(129.882 22.44) rotate(180)" fill="#1d7880"/>
+  </g>
+</svg>

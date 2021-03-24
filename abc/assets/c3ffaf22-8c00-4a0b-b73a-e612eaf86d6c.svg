@@ -1,0 +1,9 @@
+<svg id="Component_275" data-name="Component 275" xmlns="http://www.w3.org/2000/svg" width="196" height="40" viewBox="0 0 196 40">
+  <g id="Group_7436" data-name="Group 7436">
+    <rect id="Rectangle_166" data-name="Rectangle 166" width="196" height="40" rx="2" fill="#1d7880"/>
+    <g id="Group_4688" data-name="Group 4688" transform="translate(-837 -2233)">
+      <text id="Action_Required_L1_" data-name="Action Required (L1)" transform="translate(872 2259)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Action Required (L1)</tspan></text>
+      <path id="solid_arrow-alt-circle-right" data-name="solid arrow-alt-circle-right" d="M16,8a8,8,0,1,1-8,8A8,8,0,0,1,16,8Zm-3.742,9.419H16v2.287a.387.387,0,0,0,.661.274l3.687-3.706a.384.384,0,0,0,0-.545l-3.687-3.71a.387.387,0,0,0-.661.274v2.287H12.258a.388.388,0,0,0-.387.387v2.065A.388.388,0,0,0,12.258,17.419Z" transform="translate(843 2238)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

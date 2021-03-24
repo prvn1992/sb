@@ -1,0 +1,7 @@
+<svg id="BasicTab" xmlns="http://www.w3.org/2000/svg" width="1266.5" height="30" viewBox="0 0 1266.5 30">
+  <path id="Path_296" data-name="Path 296" d="M119.748,3351.976h1266" transform="translate(-119.248 -3322.976)" fill="none" stroke="#e9e9f0" stroke-width="2"/>
+  <rect id="Rectangle_161" data-name="Rectangle 161" width="90" height="2" transform="translate(0 28)" fill="#4f99bb"/>
+  <text id="Tab_1" data-name="Tab 1" transform="translate(45 14)" fill="#4f99bb" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-19.032" y="0">Tab 1</tspan></text>
+  <text id="Tab_2" data-name="Tab 2" transform="translate(153 14)" fill="#585858" font-size="15" font-family="ArialMT, Arial" opacity="0.999"><tspan x="-18.347" y="0">Tab 2</tspan></text>
+  <text id="Tab_3" data-name="Tab 3" transform="translate(291 14)" fill="#585858" font-size="15" font-family="ArialMT, Arial" opacity="0.997"><tspan x="-18.347" y="0">Tab 3</tspan></text>
+</svg>

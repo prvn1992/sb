@@ -1,0 +1,9 @@
+<svg id="Component_311" data-name="Component 311" xmlns="http://www.w3.org/2000/svg" width="327" height="120" viewBox="0 0 327 120">
+  <g id="Selectbox.BG" transform="translate(0 42)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+    <rect width="327" height="78" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="326" height="77" rx="1.5" fill="none"/>
+  </g>
+  <text id="Enter_your_comments" data-name="Enter your comments" transform="translate(10 66)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Enter your comments</tspan></text>
+  <text id="Comments" transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Comments</tspan></text>
+  <text id="Provide_additional_information_if_needed" data-name="Provide additional information if needed" transform="translate(0 29)" fill="#939393" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Provide additional information if needed</tspan></text>
+</svg>

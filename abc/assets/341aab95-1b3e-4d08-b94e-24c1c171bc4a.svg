@@ -1,0 +1,749 @@
+<svg id="Table" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1266" height="530" viewBox="0 0 1266 530">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="99" height="470" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="189" height="28" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect width="98" height="470" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-34">
+      <rect width="168" height="461" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-35">
+      <rect width="159" height="470" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-37">
+      <rect width="189" height="30" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-117">
+      <rect width="20" height="178" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-118">
+      <rect width="20" height="130" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-120">
+      <rect width="267" height="467" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Inbox_Table" data-name="Inbox Table">
+    <g id="Head">
+      <rect id="Head.BG" width="1266" height="45" fill="#4f99bb"/>
+      <text id="ACKNOWLEDGED" transform="translate(1080 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ACKNOWLEDGED</tspan></text>
+      <text id="LOCATION" transform="translate(756 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">LOCATION</tspan></text>
+      <text id="DATE" transform="translate(864 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">DATE</tspan></text>
+      <text id="ISSUE_DESCRIPTION" data-name="ISSUE DESCRIPTION" transform="translate(432 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ISSUE DESCRIPTION</tspan></text>
+      <text id="ASSET_TYPE" data-name="ASSET TYPE" transform="translate(218 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ASSET TYPE</tspan></text>
+      <text id="ALARMS" transform="translate(326 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ALARMS</tspan></text>
+      <text id="ELLIPSE_" data-name="ELLIPSE #" transform="translate(79 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ELLIPSE #</tspan></text>
+      <text id="STATUS" transform="translate(10 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">STATUS</tspan></text>
+    </g>
+    <rect id="Rectangle_1485" data-name="Rectangle 1485" width="1266" height="46" transform="translate(0 45)" fill="#ebebeb"/>
+    <rect id="Rectangle_1485-2" data-name="Rectangle 1485" width="1266" height="46" transform="translate(0 141)" fill="#ebebeb"/>
+    <rect id="Rectangle_1485-3" data-name="Rectangle 1485" width="1266" height="46" transform="translate(0 237)" fill="#ebebeb"/>
+    <rect id="Rectangle_1485-4" data-name="Rectangle 1485" width="1266" height="46" transform="translate(0 333)" fill="#ebebeb"/>
+    <rect id="Rectangle_1485-5" data-name="Rectangle 1485" width="1266" height="46" transform="translate(0 429)" fill="#ebebeb"/>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(78 60)" clip-path="url(#clip-path)">
+      <g transform="translate(-96 -214)">
+        <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -166)">
+        <g id="Repeat_Grid_3-2" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-2" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -118)">
+        <g id="Repeat_Grid_3-3" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-3" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -70)">
+        <g id="Repeat_Grid_3-4" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-4" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -22)">
+        <g id="Repeat_Grid_3-5" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-5" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 26)">
+        <g id="Repeat_Grid_3-6" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-6" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 74)">
+        <g id="Repeat_Grid_3-7" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-7" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 122)">
+        <g id="Repeat_Grid_3-8" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-8" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 170)">
+        <g id="Repeat_Grid_3-9" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-9" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 218)">
+        <g id="Repeat_Grid_3-10" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="PTS_2658A-10" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(219 59)" clip-path="url(#clip-path-12)">
+      <g transform="translate(-96 -214)">
+        <g id="Repeat_Grid_3-11" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -166)">
+        <g id="Repeat_Grid_3-12" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-2" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -118)">
+        <g id="Repeat_Grid_3-13" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-3" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -70)">
+        <g id="Repeat_Grid_3-14" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-4" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -22)">
+        <g id="Repeat_Grid_3-15" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-5" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 26)">
+        <g id="Repeat_Grid_3-16" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-6" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 74)">
+        <g id="Repeat_Grid_3-17" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-7" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 122)">
+        <g id="Repeat_Grid_3-18" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-8" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 170)">
+        <g id="Repeat_Grid_3-19" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-9" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 218)">
+        <g id="Repeat_Grid_3-20" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-10" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_22" data-name="Repeat Grid 22" transform="translate(326 59)" clip-path="url(#clip-path-12)">
+      <g transform="translate(-96 -214)">
+        <g id="Repeat_Grid_3-21" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-11" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -166)">
+        <g id="Repeat_Grid_3-22" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-12" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -118)">
+        <g id="Repeat_Grid_3-23" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-13" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -70)">
+        <g id="Repeat_Grid_3-24" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-14" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -22)">
+        <g id="Repeat_Grid_3-25" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-15" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 26)">
+        <g id="Repeat_Grid_3-26" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-16" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 74)">
+        <g id="Repeat_Grid_3-27" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-17" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 122)">
+        <g id="Repeat_Grid_3-28" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-18" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 170)">
+        <g id="Repeat_Grid_3-29" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-19" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 218)">
+        <g id="Repeat_Grid_3-30" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <text id="View_Data_x-20" data-name="View Data x" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">View Data x</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_20" data-name="Repeat Grid 20" transform="translate(1080 59)" clip-path="url(#clip-path-34)">
+      <g transform="translate(-95 -214)">
+        <text id="YES_User_ID_" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 -166)">
+        <text id="YES_User_ID_2" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 -118)">
+        <text id="YES_User_ID_3" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 -70)">
+        <text id="YES_User_ID_4" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 -22)">
+        <text id="YES_User_ID_5" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 26)">
+        <text id="YES_User_ID_6" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 74)">
+        <text id="YES_User_ID_7" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 122)">
+        <text id="YES_User_ID_8" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 170)">
+        <text id="YES_User_ID_9" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+      <g transform="translate(-95 218)">
+        <text id="YES_User_ID_10" data-name="YES (User ID)" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">YES (User ID)</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_13" data-name="Repeat Grid 13" transform="translate(756 57)" clip-path="url(#clip-path-35)">
+      <g transform="translate(-96 -214)">
+        <g id="Repeat_Grid_3-31" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -166)">
+        <g id="Repeat_Grid_3-32" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-2" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-2" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-2" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_2" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -118)">
+        <g id="Repeat_Grid_3-33" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-3" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-3" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-3" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_3" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -70)">
+        <g id="Repeat_Grid_3-34" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-4" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-4" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-4" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_4" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -22)">
+        <g id="Repeat_Grid_3-35" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-5" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-5" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-5" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_5" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 26)">
+        <g id="Repeat_Grid_3-36" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-6" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-6" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-6" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_6" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 74)">
+        <g id="Repeat_Grid_3-37" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-7" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-7" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-7" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_7" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 122)">
+        <g id="Repeat_Grid_3-38" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-8" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-8" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-8" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_8" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 170)">
+        <g id="Repeat_Grid_3-39" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-9" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-9" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-9" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_9" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 218)">
+        <g id="Repeat_Grid_3-40" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-10" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-10" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-10" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="Total_10" data-name="Total #" transform="translate(96 216)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">Total #</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_21" data-name="Repeat Grid 21" transform="translate(864 59)" clip-path="url(#clip-path-35)">
+      <g transform="translate(-96 -214)">
+        <g id="Repeat_Grid_3-41" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-11" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-11" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-11" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -166)">
+        <g id="Repeat_Grid_3-42" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-12" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-12" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-12" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-2" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -118)">
+        <g id="Repeat_Grid_3-43" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-13" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-13" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-13" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-3" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -70)">
+        <g id="Repeat_Grid_3-44" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-14" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-14" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-14" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-4" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 -22)">
+        <g id="Repeat_Grid_3-45" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-15" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-15" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-15" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-5" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 26)">
+        <g id="Repeat_Grid_3-46" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-16" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-16" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-16" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-6" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 74)">
+        <g id="Repeat_Grid_3-47" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-17" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-17" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-17" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-7" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 122)">
+        <g id="Repeat_Grid_3-48" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-18" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-18" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-18" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-8" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 170)">
+        <g id="Repeat_Grid_3-49" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-19" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-19" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-19" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-9" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="translate(-96 218)">
+        <g id="Repeat_Grid_3-50" data-name="Repeat Grid 3" transform="translate(96 214)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-96 -214)">
+            <g id="Repeat_Grid_7-20" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+              <g transform="translate(-96 -214)">
+                <g id="Repeat_Grid_8-20" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                  <g transform="translate(-96 -214)">
+                    <g id="Repeat_Grid_9-20" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-37)">
+                      <g transform="translate(-96 -214)">
+                        <text id="DD:MM:YY_HR:MM-10" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_15" data-name="Repeat Grid 15" transform="translate(21 58)" clip-path="url(#clip-path-117)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-2" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-3" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -70)">
+      <circle id="Ellipse_40-4" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_16" data-name="Repeat Grid 16" transform="translate(21 249)" clip-path="url(#clip-path-118)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-5" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-6" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-7" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_17" data-name="Repeat Grid 17" transform="translate(21 395)" clip-path="url(#clip-path-118)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-8" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-9" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-10" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_19" data-name="Repeat Grid 19" transform="translate(432 58)" clip-path="url(#clip-path-120)">
+    <g transform="translate(-483 -215)">
+      <text id="Description_with_truncation_._._._._." data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 -167)">
+      <text id="Description_with_truncation_._._._._.-2" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 -119)">
+      <text id="Description_with_truncation_._._._._.-3" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 -71)">
+      <text id="Description_with_truncation_._._._._.-4" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 -23)">
+      <text id="Description_with_truncation_._._._._.-5" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 25)">
+      <text id="Description_with_truncation_._._._._.-6" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 73)">
+      <text id="Description_with_truncation_._._._._.-7" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 121)">
+      <text id="Description_with_truncation_._._._._.-8" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 169)">
+      <text id="Description_with_truncation_._._._._.-9" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+    <g transform="translate(-483 217)">
+      <text id="Description_with_truncation_._._._._.-10" data-name="Description with truncation . . . . ." transform="translate(483 216)" fill="#585858" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="14">Description with truncation . . . . .</tspan></text>
+    </g>
+  </g>
+</svg>

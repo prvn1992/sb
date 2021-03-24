@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="56" viewBox="0 0 63 56">
+  <defs>
+    <filter id="Rectangle_651" x="0" y="0" width="63" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Back_BTN" transform="translate(6 4)">
+    <g id="Group_2557" data-name="Group 2557" transform="translate(1 -0.07)">
+      <g transform="matrix(1, 0, 0, 1, -7, -3.93)" filter="url(#Rectangle_651)">
+        <g id="Rectangle_651-2" data-name="Rectangle 651" transform="translate(6 4)" fill="#fff" stroke="#1a7e7d" stroke-width="1">
+          <rect width="51" height="44" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="50" height="43" rx="4.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Page-1" transform="translate(12.604 10.604)">
+      <g id="Core">
+        <g id="arrow-back">
+          <path id="Shape" d="M22.792,9.971H5.413L13.39,1.994,11.4,0,0,11.4l11.4,11.4L13.39,20.8,5.413,12.82H22.792V9.971Z" fill="#1a7e7d" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

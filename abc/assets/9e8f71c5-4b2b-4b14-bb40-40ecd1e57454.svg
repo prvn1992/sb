@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="56" viewBox="0 0 384 56">
+  <defs>
+    <filter id="Rectangle_660" x="0" y="0" width="384" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1624" data-name="Rectangle 1624" width="21" height="21" transform="translate(0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_112" data-name="Component 112" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_660)">
+      <rect id="Rectangle_660-2" data-name="Rectangle 660" width="372" height="44" rx="22" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1629" data-name="Rectangle 1629" width="1" height="24" transform="translate(327 10)" opacity="0.2"/>
+    <g id="Group_2751" data-name="Group 2751" transform="translate(-22 -278)">
+      <rect id="Rectangle_1630" data-name="Rectangle 1630" width="44" height="44" rx="22" transform="translate(350 278)" fill="#fff"/>
+      <g id="Icon_search_Active" transform="translate(372.5 300.5)">
+        <g id="Group_2744" data-name="Group 2744" transform="translate(-10.5 -10.5)" clip-path="url(#clip-path)">
+          <path id="Path_1397" data-name="Path 1397" d="M8.542,3.837a4.763,4.763,0,0,1,3.925,7.409l-.529.794-.794.529A4.763,4.763,0,1,1,8.5,3.881M8.5.044a8.6,8.6,0,1,0,4.851,15.7l4.94,4.94a1.653,1.653,0,1,0,2.337-2.337l-4.94-4.94A8.6,8.6,0,0,0,8.542,0" transform="translate(0.313 0)" fill="#1d7880"/>
+        </g>
+      </g>
+    </g>
+    <text id="Name" transform="translate(15 27)" fill="#9a9a9a" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Search</tspan></text>
+  </g>
+</svg>

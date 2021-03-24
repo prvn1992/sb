@@ -1,0 +1,8 @@
+<svg id="Component_126" data-name="Component 126" xmlns="http://www.w3.org/2000/svg" width="170.013" height="112" viewBox="0 0 170.013 112">
+  <rect id="images" width="170" height="112" rx="2" transform="translate(0.013)" fill="#e0dfdd" opacity="0.5"/>
+  <g id="Component_124_1" data-name="Component 124 – 1" transform="translate(60.247 23.595)">
+    <path id="Path_1218" data-name="Path 1218" d="M93.5,102.068H85.468l-4.807-4.855s-.024-.024-.036-.024l-.024-.024h0A3.892,3.892,0,0,0,77.829,96H67.835a3.935,3.935,0,0,0-2.927,1.3v.012l-4.7,4.759H52a3.951,3.951,0,0,0-4,3.95v24.047a4,4,0,0,0,4,4.01H93.5a4.009,4.009,0,0,0,4-4.01V106.018A3.958,3.958,0,0,0,93.5,102.068Zm-20.751,26a11.018,11.018,0,1,1,10.994-11.018A11.027,11.027,0,0,1,72.749,128.066Zm20-19.632a1.678,1.678,0,1,1,1.666-1.678A1.673,1.673,0,0,1,92.75,108.434Z" transform="translate(-48 -96)" fill="#1d7880"/>
+  </g>
+  <path id="Path_1219" data-name="Path 1219" d="M195.55,202.9a9.423,9.423,0,1,0,9.35,9.423A9.379,9.379,0,0,0,195.55,202.9Z" transform="translate(-110.756 -166.512)" fill="#1d7880"/>
+  <text id="Take_a_picture" data-name="Take a picture" transform="translate(43.607 85.798)" fill="#1d7880" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Take a picture</tspan></text>
+</svg>

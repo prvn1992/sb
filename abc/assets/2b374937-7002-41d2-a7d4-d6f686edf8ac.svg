@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="384" height="331" viewBox="0 0 384 331">
+  <defs>
+    <filter id="Rectangle_1938" x="0" y="0" width="384" height="331" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2068" x="20" y="70" width="174" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2072" x="20" y="189" width="174" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2070" x="190" y="70" width="174" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2071" x="190" y="189" width="174" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2073" x="20" y="70" width="174" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2074" x="190" y="70" width="174" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2075" x="190" y="189" width="174" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2076" x="20" y="189" width="174" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_178" data-name="Component 178" transform="translate(9 8)">
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_1938)">
+      <rect id="Rectangle_1938-2" data-name="Rectangle 1938" width="366" height="313" transform="translate(9 8)" fill="#fff"/>
+    </g>
+    <text id="Actions_Required" data-name="Actions Required" transform="translate(20 36)" fill="#919191" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Actions Required</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2068)">
+      <rect id="Rectangle_2068-2" data-name="Rectangle 2068" width="156" height="104" transform="translate(29 78)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2072)">
+      <rect id="Rectangle_2072-2" data-name="Rectangle 2072" width="156" height="104" transform="translate(29 197)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2070)">
+      <rect id="Rectangle_2070-2" data-name="Rectangle 2070" width="156" height="104" transform="translate(199 78)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2071)">
+      <rect id="Rectangle_2071-2" data-name="Rectangle 2071" width="156" height="104" transform="translate(199 197)" fill="#fff"/>
+    </g>
+    <text id="MPA_Distance_Changed" data-name="MPA Distance
+Changed" transform="translate(98 143)" fill="#3f3f42" font-size="14" font-family="ArialMT, Arial"><tspan x="-43.442" y="0">MPA Distance</tspan><tspan x="-28.414" y="20">Changed</tspan></text>
+    <text id="New_Asset_Added" data-name="New Asset
+Added" transform="translate(269 143)" fill="#3f3f42" font-size="14" font-family="ArialMT, Arial"><tspan x="-33.069" y="0">New Asset</tspan><tspan x="-20.241" y="20">Added</tspan></text>
+    <text id="Adjustments_Done" data-name="Adjustments
+Done" transform="translate(269 262)" fill="#3f3f42" font-size="14" font-family="ArialMT, Arial"><tspan x="-38.517" y="0">Adjustments</tspan><tspan x="-16.734" y="20">Done</tspan></text>
+    <text id="Defects_Raised" data-name="Defects
+Raised" transform="translate(98 262)" fill="#3f3f42" font-size="14" font-family="ArialMT, Arial"><tspan x="-23.731" y="0">Defects</tspan><tspan x="-21.79" y="20">Raised</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2073)">
+      <rect id="Rectangle_2073-2" data-name="Rectangle 2073" width="156" height="52" transform="translate(29 78)" fill="#005172"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2074)">
+      <rect id="Rectangle_2074-2" data-name="Rectangle 2074" width="156" height="52" transform="translate(199 78)" fill="#005172"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2075)">
+      <rect id="Rectangle_2075-2" data-name="Rectangle 2075" width="156" height="52" transform="translate(199 197)" fill="#005172"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2076)">
+      <rect id="Rectangle_2076-2" data-name="Rectangle 2076" width="156" height="52" transform="translate(29 197)" fill="#005172"/>
+    </g>
+    <text id="_2" data-name="2" transform="translate(98 107)" fill="#fff" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.342" y="0">2</tspan></text>
+    <text id="_6" data-name="6" transform="translate(98 226)" fill="#fff" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.342" y="0">6</tspan></text>
+    <text id="_1" data-name="1" transform="translate(268 107)" fill="#fff" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.342" y="0">1</tspan></text>
+    <text id="_3" data-name="3" transform="translate(268 226)" fill="#fff" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.342" y="0">3</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="Component_237" data-name="Component 237" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Rectangle_2432" data-name="Rectangle 2432" fill="#fff" stroke="#1d7880" stroke-width="1">
+    <rect width="40" height="40" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="39" height="39" rx="1.5" fill="none"/>
+  </g>
+  <path id="file-export" d="M12,3.809a.748.748,0,0,0-.219-.528L8.722.219A.749.749,0,0,0,8.191,0H8V4h4Zm5.844,5.816L14.853,6.613A.5.5,0,0,0,14,6.966V9H12v2h2v2.038a.5.5,0,0,0,.856.353l2.991-3.016A.532.532,0,0,0,17.844,9.625ZM6,10.5v-1A.5.5,0,0,1,6.5,9H12V5H7.75A.752.752,0,0,1,7,4.25V0H.75A.748.748,0,0,0,0,.75v14.5A.748.748,0,0,0,.75,16h10.5a.748.748,0,0,0,.75-.75V11H6.5A.5.5,0,0,1,6,10.5Z" transform="translate(11 12)" fill="#1d7880"/>
+</svg>

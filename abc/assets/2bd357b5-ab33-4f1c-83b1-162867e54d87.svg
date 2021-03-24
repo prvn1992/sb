@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="547" height="331" viewBox="0 0 547 331">
+  <defs>
+    <filter id="Rectangle_1697" x="0" y="0" width="547" height="331" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_179" data-name="Component 179" transform="translate(9 8)">
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_1697)">
+      <rect id="Rectangle_1697-2" data-name="Rectangle 1697" width="529" height="313" transform="translate(9 8)" fill="#fff"/>
+    </g>
+    <text id="Balance_Weight_Survey_Status" data-name="Balance Weight Survey Status" transform="translate(20 36)" fill="#919191" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Balance Weight Survey Status</tspan></text>
+    <g id="Group_3667" data-name="Group 3667" transform="translate(20 -175)">
+      <g id="Group_3665" data-name="Group 3665" transform="translate(0 47)">
+        <g id="Group_3576" data-name="Group 3576" transform="translate(62.307 236.307)">
+          <g id="Group_2581" data-name="Group 2581" transform="translate(233 14)">
+            <circle id="Ellipse_16" data-name="Ellipse 16" cx="20" cy="20" r="20" transform="translate(-0.307 -0.307)" fill="#fbcd42"/>
+          </g>
+        </g>
+        <text id="_28" data-name="28" transform="translate(315 276)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.011" y="0">28</tspan></text>
+      </g>
+      <text id="Nearing_Limits" data-name="Nearing Limits" transform="translate(349 322)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Nearing Limits</tspan></text>
+    </g>
+    <g id="Group_3666" data-name="Group 3666" transform="translate(20 -175)">
+      <text id="Outside_Limits" data-name="Outside Limits" transform="translate(349 275)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Outside Limits</tspan></text>
+      <g id="Group_3664" data-name="Group 3664" transform="translate(0 -47)">
+        <g id="Group_3584" data-name="Group 3584" transform="translate(62.307 283.307)">
+          <g id="Group_2581-2" data-name="Group 2581" transform="translate(233 14)">
+            <circle id="Ellipse_16-2" data-name="Ellipse 16" cx="20" cy="20" r="20" transform="translate(-0.307 -0.307)" fill="#e04348"/>
+          </g>
+        </g>
+        <text id="_18" data-name="18" transform="translate(315 323)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.011" y="0">18</tspan></text>
+      </g>
+    </g>
+    <g id="Group_3668" data-name="Group 3668" transform="translate(20 -175)">
+      <text id="Within_Limits" data-name="Within Limits" transform="translate(349 369)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Within Limits</tspan></text>
+      <g id="Group_3630" data-name="Group 3630">
+        <g id="Group_3585" data-name="Group 3585" transform="translate(62.307 330.307)">
+          <g id="Group_2581-3" data-name="Group 2581" transform="translate(233 14)">
+            <circle id="Ellipse_16-3" data-name="Ellipse 16" cx="20" cy="20" r="20" transform="translate(-0.307 -0.307)" fill="#8dca61"/>
+          </g>
+        </g>
+        <text id="_44" data-name="44" transform="translate(315 370)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.011" y="0">44</tspan></text>
+      </g>
+    </g>
+    <g id="Group_3669" data-name="Group 3669" transform="translate(20 -175)">
+      <text id="Unknown" transform="translate(349 416)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Unknown</tspan></text>
+      <g id="Group_3631" data-name="Group 3631">
+        <g id="Group_3586" data-name="Group 3586" transform="translate(62.307 377.307)">
+          <g id="Group_2581-4" data-name="Group 2581" transform="translate(233 14)">
+            <circle id="Ellipse_16-4" data-name="Ellipse 16" cx="20" cy="20" r="20" transform="translate(-0.307 -0.307)" fill="#888"/>
+          </g>
+        </g>
+        <text id="_12" data-name="12" transform="translate(315 417)" fill="#fff" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.011" y="0">12</tspan></text>
+      </g>
+    </g>
+    <g id="Group_3877" data-name="Group 3877" transform="translate(-43 -184.551)">
+      <path id="Intersection_9" data-name="Intersection 9" d="M0,37.142A113.734,113.734,0,0,1,178.6,50.476L84.072,113.717Z" transform="translate(92.646 249.551)" fill="#fbcd42" stroke="#f8f8f8" stroke-width="5"/>
+      <path id="Intersection_8" data-name="Intersection 8" d="M0,77.7c0-.078,0-.159,0-.237A115.042,115.042,0,0,1,29.8,0l88.813,79.777Z" transform="translate(63 286.802)" fill="#e04348" stroke="#f8f8f8" stroke-width="5"/>
+      <path id="Intersection_10" data-name="Intersection 10" d="M0,63.123,94.622,0a115.34,115.34,0,0,1,19.1,63.789C113.717,127.283,62.8,178.756,0,178.756Z" transform="translate(176.718 298.795)" fill="#8dca61" stroke="#f8f8f8" stroke-width="5"/>
+      <path id="Intersection_11" data-name="Intersection 11" d="M-11.147.659c0-.218,0-.441,0-.659H102.571V114.377A113.718,113.718,0,0,1-11.147.659Z" transform="translate(74.146 363.174)" fill="#888" stroke="#f8f8f8" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="168" viewBox="0 0 180 168">
+  <defs>
+    <filter id="Rectangle_736" x="0" y="0" width="180" height="168" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_180" data-name="Component 180" transform="translate(1.5 0.5)">
+    <g transform="matrix(1, 0, 0, 1, -1.5, -0.5)" filter="url(#Rectangle_736)">
+      <g id="Rectangle_736-2" data-name="Rectangle 736" transform="translate(1.5 0.5)" fill="#fff" stroke="rgba(147,147,147,0.2)" stroke-width="1">
+        <rect width="177" height="165" rx="10" stroke="none"/>
+        <rect x="0.5" y="0.5" width="176" height="164" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Username" transform="translate(66 29)" fill="#43425d" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-50.918" y="0">Patricia Jackson</tspan></text>
+    <text id="Username-2" data-name="Username" transform="translate(15 77)" fill="#106aa3" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">My Profile</tspan><tspan x="0" y="35">Settings</tspan><tspan x="0" y="70">Log Out</tspan></text>
+    <g id="small-down" transform="translate(162 29) rotate(180)">
+      <path id="Path_26" data-name="Path 26" d="M8.1,11.6,2.6,6.041,4.026,4.6,8.1,8.718,12.174,4.6,13.6,6.041Z" transform="translate(-2.6 -4.6)" fill="#106aa3"/>
+    </g>
+  </g>
+</svg>

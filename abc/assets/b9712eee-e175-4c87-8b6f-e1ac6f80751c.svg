@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="209" height="41" viewBox="0 0 209 41">
+  <defs>
+    <filter id="Selectbox.BG" x="0" y="0" width="209" height="41" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Dropdown" transform="translate(4.5 2.5)">
+    <g transform="matrix(1, 0, 0, 1, -4.5, -2.5)" filter="url(#Selectbox.BG)">
+      <g id="Selectbox.BG-2" data-name="Selectbox.BG" transform="translate(4.5 2.5)" fill="#fff" stroke="#d7dae2" stroke-width="1">
+        <rect width="200" height="32" rx="4" stroke="none"/>
+        <rect x="0.5" y="0.5" width="199" height="31" rx="3.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Dropdown_option_1" data-name="Dropdown option 1" transform="translate(12 21)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">Dropdown option 1</tspan></text>
+    <g id="small-down" transform="translate(176.961 13)">
+      <path id="Path_26" data-name="Path 26" d="M8.1,11.6,2.6,6.041,4.026,4.6,8.1,8.718,12.174,4.6,13.6,6.041Z" transform="translate(-2.6 -4.6)" fill="#4f99bb"/>
+    </g>
+  </g>
+</svg>

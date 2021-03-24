@@ -1,0 +1,15 @@
+<svg id="RAG_dropdown" data-name="RAG dropdown" xmlns="http://www.w3.org/2000/svg" width="216" height="117" viewBox="0 0 216 117">
+  <g id="Rectangle_736" data-name="Rectangle 736" fill="#fff" stroke="rgba(147,147,147,0.2)" stroke-width="1">
+    <rect width="216" height="117" rx="10" stroke="none"/>
+    <rect x="0.5" y="0.5" width="215" height="116" rx="9.5" fill="none"/>
+  </g>
+  <path id="Path_1389" data-name="Path 1389" d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" transform="translate(15 31.2)" fill="#e35100"/>
+  <path id="Path_1388" data-name="Path 1388" d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" transform="translate(15 56.2)" fill="#e4b720"/>
+  <path id="Path_1390" data-name="Path 1390" d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" transform="translate(15 81.2)" fill="#8dc055"/>
+  <g id="small-down" transform="translate(190 11.151)">
+    <path id="Path_26" data-name="Path 26" d="M8.1,11.6,2.6,6.041,4.026,4.6,8.1,8.718,12.174,4.6,13.6,6.041Z" transform="translate(-2.6 -4.6)" fill="#106aa3"/>
+  </g>
+  <text id="High_priority_Medium_priority_Low_priority" data-name="High priority
+Medium priority
+Low priority" transform="translate(45 44)" fill="#43425d" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">High priority</tspan><tspan x="0" y="25">Medium priority</tspan><tspan x="0" y="50">Low priority</tspan></text>
+</svg>

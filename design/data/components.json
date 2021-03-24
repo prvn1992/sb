@@ -1,0 +1,283 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Praveen ",
+  "last_updated": "2021-03-23T04:30:24.035Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "823a73ce-749e-4d25-837c-c1d1c27e3600",
+      "related_entity_ids": [
+        "ae03153d-ab6c-48c8-8e94-f59dd2c3a746",
+        "12d98f0a-d547-42ff-8fd3-bf6822fd0d4a"
+      ],
+      "snippets": {
+        "trigger": "button",
+        "languages": {
+          "html": "<button type=\"button\" (click)=\"onClick.emit($event)\" [ngClass]=\"classes\"\n  [ngStyle]=\"{ 'background-color': backgroundColor }\">\n  {{ label }}\n</button>\n",
+          "scss": ".button {\n  font-family: var(--font-arial-16-pt-family);\n  font-weight: 700;\n  border: 0;\n  border-radius: 0.3em;\n  cursor: pointer;\n  display: inline-block;\n  line-height: 1;\n}\n.button--primary {\n  color: var(--color-ffffff);\n  background-color: var(--color-51-acb-8);\n}\n.button--secondary {\n  color: var(--color-070707);\n  background-color: transparent;\n  box-shadow: var(--color-000000) 0px 0px 0px 1px inset;\n}\n.button--small {\n  font-size: 12px;\n  padding: 10px 20px;\n}\n.button--medium {\n  font-size: 14px;\n  padding: 12px 30px;\n}\n.button--large {\n  font-size: 16px;\n  padding: 15px 40px;\n}\n"
+        }
+      },
+      "name": "Button_Login",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "3c577f40-5633-4cae-b6e4-71d5d6651c90",
+        "last_sync": "2021-03-23T04:30:24.032Z",
+        "sync": true
+      },
+      "last_updated": "2021-03-23T06:49:36.719Z",
+      "last_updated_by": "Praveen "
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8fdbcf67-a7e6-436a-94e5-d73ef270115a",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Button_Login",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "959f1d59-8ffe-4f0c-a6d5-96e6b995c736",
+        "last_sync": "2021-03-23T10:30:44.185Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "081f1523-14ba-4099-9d69-32a83f3b9919",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Button_LogInNew",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "ce7cbe89-f2cd-4df9-8e51-8ad7c1b65f4e",
+        "last_sync": "2021-03-23T10:43:42.290Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "6bea57f1-bbb3-4635-9b34-50bcc26fcc1d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "email",
+        "languages": {
+          "html": "<app-text-field type=\"email\" class=\"mb1\" placeholder=\"Enter email\"></app-text-field>"
+        }
+      },
+      "name": "Field_EnterEmail",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "b77b13cd-d1a8-4bd3-b33d-09c76ce5a0a2",
+        "last_sync": "2021-03-23T04:30:24.032Z",
+        "sync": true
+      },
+      "last_updated": "2021-03-23T08:33:40.901Z",
+      "last_updated_by": "Praveen "
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a5f291ef-fa16-4255-9be7-9547c52b9746",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "password",
+        "languages": {
+          "html": "<app-text-field type=\"password\" placeholder=\"Enter password\"\n      [suffix]=\"'./assets/images/icons/4c98a48f-692e-4dc0-b9d3-baf3f8a4254f.svg'\"></app-text-field>"
+        }
+      },
+      "name": "Field_EnterPassword",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "9aabf2dd-b9b1-490f-bd9d-2a4cccb94ea5",
+        "last_sync": "2021-03-23T04:30:24.032Z",
+        "sync": true
+      },
+      "last_updated": "2021-03-23T08:34:46.181Z",
+      "last_updated_by": "Praveen "
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8d204bae-a709-40e6-81bd-065a80466fe3",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Icon_ViewPassword",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "4c98a48f-692e-4dc0-b9d3-baf3f8a4254f",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "38daa9d3-6075-4ce1-927d-67d1948e7de4",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "login-form",
+        "languages": {
+          "html": "<form>\n  <figcaption><b>Log In</b></figcaption>\n  <fieldset>\n    <app-text-field type=\"email\" class=\"mb1\" placeholder=\"Enter email\" [class]=\"['mb1']\"></app-text-field>\n    <app-text-field type=\"password\" placeholder=\"Enter password\"\n      [suffix]=\"'./assets/images/icons/4c98a48f-692e-4dc0-b9d3-baf3f8a4254f.svg'\"></app-text-field>\n  </fieldset>\n  <div class=\"action-area\">\n    <span><a href=\"#\">Forgot Password?</a></span>\n    <span class=\"action\">\n      <app-button label=\"Log In\" primary=\"true\"></app-button>\n    </span>\n  </div>\n</form>\n"
+        }
+      },
+      "name": "LoginModule",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "9ba2e86d-0b62-4826-b722-cf30542105bc",
+        "last_sync": "2021-03-23T04:30:24.032Z",
+        "sync": true
+      },
+      "last_updated": "2021-03-23T08:35:33.496Z",
+      "last_updated_by": "Praveen "
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "7fdb795c-00bb-44fb-bd2a-e6d2e7cc0615",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "NR_Logo",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "9a1aaaf1-5edf-4503-9ca8-54fc6cf6e3c9",
+        "last_sync": "2021-03-23T04:30:24.032Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "bedc7364-ef3a-41f3-859f-69edfc5d2c12",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Text_AppName",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "aadb81eb-7846-4a5d-bba7-e16bb3869e6f",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "41bb82f0-0aa1-4410-81b1-1e27a24dba16",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Text_Enteremail",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "9b48e075-af79-45a5-bca7-3c2e37295910",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d86877b2-f231-4a32-a670-b3ebc02d711e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Text_EnterPassword",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "35e31257-ff6c-4303-a257-8a8505738404",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "76832ea3-a429-4e04-9931-d535c1d79cba",
+      "related_entity_ids": [
+        "91d70495-7b0f-4722-8a46-c52d2f77d231"
+      ],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Text_ForgotPassword",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "7346589e-4e64-4eb0-86ef-2f8d4933cb99",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      },
+      "last_updated": "2021-03-23T10:37:41.827Z",
+      "last_updated_by": "Praveen "
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "5faaf0b9-28c0-476f-bbb6-9673c53e0e55",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Text_Login",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "a9d59280-2ff6-4cca-8dea-3a6cd26445cf",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "bc468fd5-2366-4c20-b013-159e5dcff293",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Text_login_header",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/c4886885-9529-4dd0-4b79-cc24a6f2f3f6",
+        "id": "8b447a16-ebaf-442d-a663-5cc881a5fa25",
+        "last_sync": "2021-03-23T04:30:24.033Z",
+        "sync": true
+      }
+    }
+  ]
+}

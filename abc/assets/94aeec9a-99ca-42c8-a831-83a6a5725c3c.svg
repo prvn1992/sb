@@ -1,0 +1,26 @@
+<svg id="Search_bar" data-name="Search bar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="90" viewBox="0 0 1440 90">
+  <defs>
+    <filter id="Navbar.BG" x="294" y="13" width="852" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_737" data-name="Rectangle 737" width="1440" height="90" fill="rgba(16,106,163,0.2)"/>
+  <g id="Group_253" data-name="Group 253" transform="translate(1557.611 1045)">
+    <g transform="matrix(1, 0, 0, 1, -1557.61, -1045)" filter="url(#Navbar.BG)">
+      <path id="Navbar.BG-2" data-name="Navbar.BG" d="M0,0H834V50H0Z" transform="translate(303 20)" fill="#fff"/>
+    </g>
+    <text id="Search" transform="translate(-1239.611 -994.804)" fill="#43425d" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Search</tspan></text>
+    <path id="Search_Icon" data-name="Search Icon" d="M14.288,12.634a7.624,7.624,0,0,0,1.575-4.7A7.9,7.9,0,0,0,7.988,0,7.993,7.993,0,0,0,0,7.938a7.993,7.993,0,0,0,7.988,7.938,7.5,7.5,0,0,0,4.725-1.565l3.375,3.354a1.092,1.092,0,0,0,1.575,0,1.076,1.076,0,0,0,0-1.565Zm-6.3.894A5.649,5.649,0,0,1,2.25,7.938a5.738,5.738,0,0,1,11.475,0A5.649,5.649,0,0,1,7.988,13.528Z" transform="translate(-453.611 -1009)" fill="#106aa3"/>
+    <g id="Group_2887" data-name="Group 2887">
+      <text id="Filter_by" data-name="Filter by" transform="translate(-580.611 -994.804)" fill="#43425d" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Filter by</tspan></text>
+      <g id="small-down" transform="translate(-519.611 -1003)">
+        <path id="Path_26" data-name="Path 26" d="M8.1,11.6,2.6,6.041,4.026,4.6,8.1,8.718,12.174,4.6,13.6,6.041Z" transform="translate(-2.6 -4.6)" fill="#106aa3"/>
+      </g>
+    </g>
+  </g>
+  <path id="Path_325" data-name="Path 325" d="M0,0V40" transform="translate(960.5 25.5)" fill="none" stroke="rgba(147,147,147,0.2)" stroke-width="1"/>
+</svg>

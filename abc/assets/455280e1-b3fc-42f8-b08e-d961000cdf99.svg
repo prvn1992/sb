@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="586" height="210" viewBox="0 0 586 210">
+  <defs>
+    <filter id="Rectangle_674" x="0" y="0" width="292" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_674-2" x="294" y="0" width="292" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_114" data-name="Component 114" transform="translate(9 8)">
+    <g id="Card_WR">
+      <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_674)">
+        <rect id="Rectangle_674-3" data-name="Rectangle 674" width="274" height="192" rx="2" transform="translate(9 8)" fill="#fff"/>
+      </g>
+      <g id="BTN" transform="translate(10 140)">
+        <rect id="Rectangle_166" data-name="Rectangle 166" width="166" height="44" rx="4" fill="#1d7880"/>
+        <text id="View" transform="translate(84 27.5)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-18.086" y="0">View</tspan></text>
+      </g>
+      <g id="Group_2612" data-name="Group 2612" transform="translate(10 10)">
+        <text id="Wire_Run" data-name="Wire Run" transform="translate(0 22)" fill="#707070" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Wire Run</tspan></text>
+        <text id="_Asset_number_" data-name="# &lt;Asset number&gt;" transform="translate(0 48)" fill="#333" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0"># &lt;Asset number&gt;</tspan></text>
+        <text id="ELR:_Track:_Last_Surveyed:_10_12_2018" data-name="ELR: 
+Track: 
+Last Surveyed: 10/12/2018" transform="translate(0 70)" fill="#737373" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">ELR: </tspan><tspan x="0" y="21">Track: </tspan><tspan x="0" y="42">Last Surveyed: 10/12/2018</tspan></text>
+      </g>
+      <g id="Group_2732" data-name="Group 2732" transform="translate(0 134)">
+        <g id="Group_2581" data-name="Group 2581" transform="translate(233.323 14)">
+          <circle id="Ellipse_16" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+        </g>
+      </g>
+      <g id="Group_2733" data-name="Group 2733" transform="translate(-29 134)">
+        <g id="Group_2581-2" data-name="Group 2581" transform="translate(233.323 14)">
+          <circle id="Ellipse_16-2" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+        </g>
+      </g>
+    </g>
+    <g id="Card_WR-2" data-name="Card_WR" transform="translate(294)">
+      <g transform="matrix(1, 0, 0, 1, -303, -8)" filter="url(#Rectangle_674-2)">
+        <rect id="Rectangle_674-4" data-name="Rectangle 674" width="274" height="192" rx="2" transform="translate(303 8)" fill="#fff"/>
+      </g>
+      <g id="BTN-2" data-name="BTN" transform="translate(10 140)">
+        <rect id="Rectangle_166-2" data-name="Rectangle 166" width="166" height="44" rx="4" fill="#1d7880"/>
+        <text id="View-2" data-name="View" transform="translate(84 27.5)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-18.086" y="0">View</tspan></text>
+      </g>
+      <g id="Group_2612-2" data-name="Group 2612" transform="translate(10 10)">
+        <text id="Wire_Run-2" data-name="Wire Run" transform="translate(0 22)" fill="#707070" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Wire Run</tspan></text>
+        <text id="_Asset_number_2" data-name="# &lt;Asset number&gt;" transform="translate(0 48)" fill="#333" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0"># &lt;Asset number&gt;</tspan></text>
+        <text id="ELR:_Track:_Last_Surveyed:_10_12_2018-2" data-name="ELR: 
+Track: 
+Last Surveyed: 10/12/2018" transform="translate(0 70)" fill="#737373" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">ELR: </tspan><tspan x="0" y="21">Track: </tspan><tspan x="0" y="42">Last Surveyed: 10/12/2018</tspan></text>
+      </g>
+      <g id="Group_2732-2" data-name="Group 2732" transform="translate(0 134)">
+        <g id="Group_2581-3" data-name="Group 2581" transform="translate(233.323 14)">
+          <circle id="Ellipse_16-3" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+        </g>
+      </g>
+      <g id="Group_2733-2" data-name="Group 2733" transform="translate(-29 134)">
+        <g id="Group_2581-4" data-name="Group 2581" transform="translate(233.323 14)">
+          <circle id="Ellipse_16-4" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

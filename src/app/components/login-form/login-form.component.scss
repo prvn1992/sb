@@ -1,0 +1,26 @@
+form {
+  background-color: var(--color-ffffff);
+  padding: 1em;
+  padding-bottom: 3em;
+  fieldset {
+    width: 20em;
+    border: none;
+    margin: 1em 0;
+    padding: 0;
+  }
+  a {
+    vertical-align: sub;
+    text-decoration: none;
+    color: var(--color-ae-174-d);
+    font-weight: var(--font-arial-12-pt-weight);
+  }
+  .action {
+    float: right;
+    position: relative;
+    right: .3em;
+  }
+  .action-area {
+    margin-top: 3em;
+  }
+}
+

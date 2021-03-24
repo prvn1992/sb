@@ -1,0 +1,14 @@
+<svg id="Component_113" data-name="Component 113" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166" height="44" viewBox="0 0 166 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1619" data-name="Rectangle 1619" width="20.112" height="20.362" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_1618" data-name="Rectangle 1618" width="166" height="44" rx="22" fill="#1d7880"/>
+  <text id="Search_this_area" data-name="Search this area" transform="translate(98 26.053)" fill="#fff" font-size="12" font-family="ArialMT, Arial" letter-spacing="0em"><tspan x="-43.654" y="0">Search this area</tspan></text>
+  <g id="Icon_Refresh" transform="translate(34.064 22.118)">
+    <g id="Group_2736" data-name="Group 2736" transform="translate(-10.056 -10.181)" clip-path="url(#clip-path)">
+      <path id="Path_1392" data-name="Path 1392" d="M17.261,17.331a9.994,9.994,0,0,0,2.873-7.745H16.761a6.746,6.746,0,1,1-3.123-5.122l-2,2c-.75.75,0,1.249.5,1.374H18.76a.5.5,0,0,0,.5-.5V.841a.75.75,0,0,0-1.249-.5l-2,1.749a10.118,10.118,0,1,0,1.249,15.24Z" transform="translate(-0.022 0.033)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

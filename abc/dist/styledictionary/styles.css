@@ -1,0 +1,57 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 23 Mar 2021 11:41:28 GMT
+ */
+
+:root {
+  --color-000000: rgba(0, 0, 0, 0.8);
+  --color-cece-27: rgba(206, 206, 39, 0.2);
+  --color-4-f-99-bb: #4f99bb;
+  --color-cccccc: #cccccc;
+  --color-4-e-9643: rgba(78, 150, 67, 0.2);
+  --color-1-d-7880: rgba(29, 120, 128, 0.2);
+  --color-51-acb-8: rgba(81, 172, 184, 0.2);
+  --color-8-dc-055: #8dc055;
+  --color-585858: #585858;
+  --color-4-d-4-f-5-c: #4d4f5c;
+  --color-106-aa-3: rgba(16, 106, 163, 0.2);
+  --color-ae-174-d: rgba(174, 23, 77, 0.2);
+  --color-c-94043: rgba(201, 64, 67, 0.2);
+  --color-70-b-397: rgba(112, 179, 151, 0.2);
+  --color-41287-f: rgba(65, 40, 127, 0.2);
+  --color-7-f-1-f-7-d: rgba(127, 31, 125, 0.2);
+  --color-8-b-60-a-0: rgba(139, 96, 160, 0.2);
+  --color-c-94578: #c94578;
+  --color-bb-0034: #bb0034;
+  --color-939393: #939393;
+  --color-e-4-b-720: #e4b720;
+  --color-005172: #005172;
+  --color-secondary-1-d-7880: #1d7880;
+  --color-secondary-51-acb-8: #51acb8;
+  --color-secondary-4-e-9643: #4e9643;
+  --color-secondary-cece-27: #cece27;
+  --color-e-35100: #e35100;
+  --color-secondary-ae-174-d: #ae174d;
+  --color-secondary-c-94043: #c94043;
+  --color-secondary-70-b-397: #70b397;
+  --color-secondary-7-f-1-f-7-d: #7f1f7d;
+  --color-secondary-8-b-60-a-0: #8b60a0;
+  --color-secondary-106-aa-3: #106aa3;
+  --color-secondary-41287-f: #41287f;
+  --color-ffffff: #ffffff;
+  --font-arial-14-pt-family: Arial;
+  --font-arial-14-pt-weight: Regular;
+  --font-network-rail-sans-20-pt-family: Network Rail Sans;
+  --font-network-rail-sans-20-pt-weight: Bold;
+  --font-arial-16-pt-family: Arial;
+  --font-arial-16-pt-weight: Regular;
+  --font-network-rail-sans-25-pt-family: Network Rail Sans;
+  --font-network-rail-sans-25-pt-weight: Bold;
+  --font-network-rail-sans-22-pt-family: Network Rail Sans;
+  --font-network-rail-sans-22-pt-weight: Bold;
+  --size-font-arial-14-pt: 14rem;
+  --size-font-network-rail-sans-20-pt: 20rem;
+  --size-font-arial-16-pt: 16rem;
+  --size-font-network-rail-sans-25-pt: 25rem;
+  --size-font-network-rail-sans-22-pt: 22rem;
+}

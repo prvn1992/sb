@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="152" viewBox="0 0 280 152">
+  <defs>
+    <filter id="Rectangle_2617" x="0" y="0" width="280" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_273" data-name="Component 273" transform="translate(9 8)">
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_2617)">
+      <rect id="Rectangle_2617-2" data-name="Rectangle 2617" width="262" height="134" rx="4" transform="translate(9 8)" fill="#fff" opacity="0.9"/>
+    </g>
+    <g id="Group_4869" data-name="Group 4869" transform="translate(6343 -12082)">
+      <text id="Update_Location" data-name="Update Location" transform="translate(-6267 12201)" fill="#1d7880" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Update Location</tspan></text>
+      <g id="Group_4868" data-name="Group 4868" transform="translate(0 10)">
+        <g id="Group_4867" data-name="Group 4867" transform="translate(-6577 10774.291)">
+          <ellipse id="Ellipse_409" data-name="Ellipse 409" cx="8.115" cy="10.211" rx="8.115" ry="10.211" transform="translate(356.426 1319.362)"/>
+          <path id="solid_exclamation-triangle" data-name="solid exclamation-triangle" d="M34.948,27A2.947,2.947,0,0,1,32.4,31.419H2.949A2.947,2.947,0,0,1,.4,27L15.121,1.472a2.947,2.947,0,0,1,5.1,0L34.948,27ZM17.673,21.723A2.823,2.823,0,1,0,20.5,24.546,2.823,2.823,0,0,0,17.673,21.723Zm-2.68-10.146.455,8.346a.736.736,0,0,0,.735.7h2.979a.736.736,0,0,0,.735-.7l.455-8.346a.736.736,0,0,0-.735-.777H15.728a.736.736,0,0,0-.735.777Z" transform="translate(347 1310)" fill="#fbcd42"/>
+        </g>
+        <text id="Asset_created_in_offline_mode._Default_DU_location_is_selected" data-name="Asset created in offline mode.
+Default DU location is selected" transform="translate(-6212 12138)" fill="rgba(0,0,0,0.8)" font-size="12" font-family="ArialMT, Arial"><tspan x="-78.935" y="0">Asset created in offline mode.</tspan><tspan x="-81.706" y="17">Default DU location is selected</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="Component_83" data-name="Component 83" xmlns="http://www.w3.org/2000/svg" width="1158" height="29" viewBox="0 0 1158 29">
+  <path id="Path_296" data-name="Path 296" d="M119.748,3351.976h1157.5" transform="translate(-119.248 -3323.976)" fill="none" stroke="#e9e9f0" stroke-width="2"/>
+  <path id="Path_1391" data-name="Path 1391" d="M0,0H90V2H0Z" transform="translate(0 27)"/>
+  <text id="OVERVIEW" transform="translate(45 13)" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-37.601" y="0">OVERVIEW</tspan></text>
+  <text id="WORK_ORDERS" data-name="WORK ORDERS" transform="translate(157 13)" fill="#005172" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.999"><tspan x="-54.055" y="0">WORK ORDERS</tspan></text>
+  <text id="HISTORY" transform="translate(262 13)" fill="#005172" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.997"><tspan x="-30.728" y="0">HISTORY</tspan></text>
+  <text id="DOCUMENTS" transform="translate(358 13)" fill="#005172" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.997"><tspan x="-45.11" y="0">DOCUMENTS</tspan></text>
+</svg>

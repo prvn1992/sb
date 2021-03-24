@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="52" viewBox="0 0 92 52">
+  <defs>
+    <filter id="Rectangle_2205" x="0" y="0" width="92" height="52" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_216" data-name="Component 216" transform="translate(6 5)">
+    <g transform="matrix(1, 0, 0, 1, -6, -5)" filter="url(#Rectangle_2205)">
+      <rect id="Rectangle_2205-2" data-name="Rectangle 2205" width="80" height="40" rx="20" transform="translate(6 5)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_2203" data-name="Rectangle 2203" width="40" height="40" rx="20" fill="#fff"/>
+    <g id="Group_4132" data-name="Group 4132" transform="translate(-1828.4 -4135)">
+      <path id="Path_1892" data-name="Path 1892" d="M.833,4.667v12l5.25-3,6,3,5.25-3v-12l-5.25,3-6-3Z" transform="translate(1839.567 4146.333)" fill="none" stroke="#1d7880" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1893" data-name="Path 1893" d="M6.667,1.667v12" transform="translate(1838.983 4146.333)" fill="none" stroke="#1d7880" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1894" data-name="Path 1894" d="M13.333,5V16.327" transform="translate(1838.317 4146.336)" fill="none" stroke="#1d7880" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="Rectangle_2204" data-name="Rectangle 2204" width="40" height="40" rx="20" transform="translate(40)" fill="#1d7880"/>
+    <path id="Icon_awesome-list-ul" data-name="Icon awesome-list-ul" d="M1.846,1.875A1.846,1.846,0,1,0,3.692,3.721,1.846,1.846,0,0,0,1.846,1.875Zm0,6.154A1.846,1.846,0,1,0,3.692,9.875,1.846,1.846,0,0,0,1.846,8.029Zm0,6.154a1.846,1.846,0,1,0,1.846,1.846,1.846,1.846,0,0,0-1.846-1.846Zm17.231.615H6.769a.615.615,0,0,0-.615.615v1.231a.615.615,0,0,0,.615.615H19.077a.615.615,0,0,0,.615-.615V15.413A.615.615,0,0,0,19.077,14.8Zm0-12.308H6.769l-.615.615V4.337l.615.615H19.077a.615.615,0,0,0,.615-.615V3.106A.615.615,0,0,0,19.077,2.49Zm0,6.154H6.769a.615.615,0,0,0-.615.615V10.49a.615.615,0,0,0,.615.615H19.077a.615.615,0,0,0,.615-.615V9.26A.615.615,0,0,0,19.077,8.644Z" transform="translate(50 10.125)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="Component_128" data-name="Component 128" xmlns="http://www.w3.org/2000/svg" width="166" height="106" viewBox="0 0 166 106">
+  <g id="Component_127_1" data-name="Component 127 – 1" transform="translate(0 62)">
+    <rect id="Rectangle_166" data-name="Rectangle 166" width="166" height="44" rx="4" fill="#1d7880"/>
+    <text id="Submit_Request" data-name="Submit Request" transform="translate(84 27.5)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-60.895" y="0">Submit Request</tspan></text>
+  </g>
+  <g id="Group_2801" data-name="Group 2801">
+    <rect id="Rectangle_166-2" data-name="Rectangle 166" width="166" height="44" rx="4" fill="#ccc"/>
+    <text id="Submit_Survey" data-name="Submit Survey" transform="translate(84 27.5)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-56.016" y="0">Submit Survey</tspan></text>
+  </g>
+</svg>

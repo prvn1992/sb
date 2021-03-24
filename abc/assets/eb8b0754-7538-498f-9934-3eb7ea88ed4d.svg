@@ -1,0 +1,19 @@
+<svg id="Component_175" data-name="Component 175" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="70" viewBox="0 0 1024 70">
+  <defs>
+    <filter id="Rectangle_674" x="939" y="13" width="48" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_1937" data-name="Rectangle 1937" width="1024" height="70" fill="#fff"/>
+  <text id="Balance_Weights_:_Survey_Dashboard_-_Bedford_DU" data-name="Balance Weights : Survey Dashboard - Bedford DU" transform="translate(43 41)" fill="#005172" font-size="18" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0" fill="#000">Balance Weights : Survey Dashboard - </tspan><tspan y="0" fill="#005172">Bedford DU</tspan></text>
+  <g id="Group_3798" data-name="Group 3798" transform="translate(680 -172)">
+    <g transform="matrix(1, 0, 0, 1, -680, 172)" filter="url(#Rectangle_674)">
+      <rect id="Rectangle_674-2" data-name="Rectangle 674" width="36" height="36" rx="2" transform="translate(945 17)" fill="#fff"/>
+    </g>
+    <path id="Path_604" data-name="Path 604" d="M-39.641-537.915a.669.669,0,0,0-.647-.438H-54.55a.65.65,0,0,0-.646.438.662.662,0,0,0,.146.792l5.547,5.443v5.422a.838.838,0,0,0,.167.583l2.857,2.857a.617.617,0,0,0,.5.208.652.652,0,0,0,.271-.062.657.657,0,0,0,.375-.689v-8.32l5.546-5.443A.629.629,0,0,0-39.641-537.915Zm-7.07,5.656V-525l-1.416-1.416v-5.846l-4.807-4.716H-41.9Z" transform="translate(330.255 737.343)" fill="#1d7880" stroke="#1d7880" stroke-width="0.5"/>
+  </g>
+</svg>

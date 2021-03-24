@@ -1,0 +1,15 @@
+<svg id="Component_420" data-name="Component 420" xmlns="http://www.w3.org/2000/svg" width="146" height="36" viewBox="0 0 146 36">
+  <g id="Component_406_1" data-name="Component 406 – 1" transform="translate(85)">
+    <g id="Selectbox.BG" fill="#fff" stroke="#d9d9d9" stroke-width="1">
+      <rect width="61" height="36" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="60" height="35" rx="1.5" fill="none"/>
+    </g>
+    <path id="Path_1904" data-name="Path 1904" d="M4,5.091,0,1.048,1.037,0,4,2.995,6.963,0,8,1.048Z" transform="translate(42.535 15.876)" fill="#1d7880"/>
+    <g id="Component_234_15" data-name="Component 234 – 15" transform="translate(10 10)">
+      <text id="_50" data-name="50" transform="translate(0 13)" fill="#1d7880" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">50</tspan></text>
+    </g>
+  </g>
+  <g id="Component_289_2" data-name="Component 289 – 2" transform="translate(0 11)">
+    <text id="View_per_page:" data-name="View per page:" transform="translate(0 11)" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">View per page:</tspan></text>
+  </g>
+</svg>

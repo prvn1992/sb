@@ -1,0 +1,12 @@
+<svg id="Component_627" data-name="Component 627" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_5773" data-name="Group 5773" transform="translate(12092 20349)">
+    <rect id="Selectbox.BG" width="40" height="40" rx="2" transform="translate(-12092 -20349)" fill="#fff"/>
+  </g>
+  <g id="Group_5014" data-name="Group 5014" transform="translate(3354 -1907)">
+    <g id="Selectbox.BG-2" data-name="Selectbox.BG" transform="translate(-3349 1912)" fill="#1d7880" stroke="#1d7880" stroke-width="1.5">
+      <rect width="30" height="30" rx="2" stroke="none"/>
+      <rect x="0.75" y="0.75" width="28.5" height="28.5" rx="1.25" fill="none"/>
+    </g>
+    <path id="Path_2024" data-name="Path 2024" d="M83.469,110.145l-8.009,8.009-3.93-3.93-2,2,5.925,5.926,10-10Z" transform="translate(-3411.783 1810.855)" fill="#fff"/>
+  </g>
+</svg>

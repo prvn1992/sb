@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312.071" height="245" viewBox="0 0 312.071 245">
+  <defs>
+    <filter id="Union_13" x="0" y="0" width="312.071" height="245" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Super_Tooltip" data-name="Super Tooltip" transform="translate(22.5 22.5)">
+    <g transform="matrix(1, 0, 0, 1, -22.5, -22.5)" filter="url(#Union_13)">
+      <path id="Union_13-2" data-name="Union 13" d="M-628.929-4222a4,4,0,0,1-4-4v-158.929L-640-4392l7.071-7.072V-4418a4,4,0,0,1,4-4h252a4,4,0,0,1,4,4v192a4,4,0,0,1-4,4Z" transform="translate(662.5 4444.5)" fill="#fff"/>
+    </g>
+    <text id="Message" transform="translate(27.071 38)" fill="#4d4f5c" font-size="18" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="0" y="0">Message</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Morbi_quis_elit_non_velit_fringilla_" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis elit non velit fringilla " transform="translate(27.071 51)" fill="#4d4f5c" font-size="13" font-family="SourceSansPro-Regular, Source Sans Pro" opacity="0.5"><tspan x="0" y="13">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="33">consectetur adipiscing elit. Morbi quis </tspan><tspan x="0" y="53">elit non velit fringilla </tspan></text>
+    <g id="previous" transform="translate(-387.929 -202)">
+      <path id="Rectangle_170" data-name="Rectangle 170" d="M0,0H130a0,0,0,0,1,0,0V50a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(395 352)" fill="#005172"/>
+      <text id="Previous-2" data-name="Previous" transform="translate(460 383)" fill="#fff" font-size="15" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-27.195" y="0">Previous</tspan></text>
+    </g>
+    <g id="next" transform="translate(-387.929 -202)">
+      <path id="Rectangle_169" data-name="Rectangle 169" d="M0,0H130a0,0,0,0,1,0,0V46a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(525 352)" fill="#8dc055"/>
+      <text id="Next-2" data-name="Next" transform="translate(590 383)" fill="#fff" font-size="15" font-family="SourceSansPro-Regular, Source Sans Pro"><tspan x="-14.227" y="0">Next</tspan></text>
+    </g>
+    <g id="close" transform="translate(-268.382 -99)">
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="17.995" height="2.159" transform="translate(504.127 121.601) rotate(45)" fill="#a4afb7"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="17.995" height="2.159" transform="translate(516.852 123.127) rotate(135)" fill="#a4afb7"/>
+    </g>
+    <g id="scroll" transform="translate(-405.929 -298)">
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="25" height="4" rx="2" transform="translate(483 427)" fill="#4f99bb"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="25" height="4" rx="2" transform="translate(515 427)" fill="rgba(79,153,187,0.4)" opacity="0.3"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="25" height="4" rx="2" transform="translate(547 427)" fill="rgba(79,153,187,0.4)" opacity="0.3"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="25" height="4" rx="2" transform="translate(579 427)" fill="rgba(79,153,187,0.4)" opacity="0.3"/>
+    </g>
+  </g>
+</svg>

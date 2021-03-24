@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="292" height="170" viewBox="0 0 292 170">
+  <defs>
+    <filter id="Rectangle_674" x="0" y="0" width="292" height="170" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_78" data-name="Component 78" transform="translate(9 8)">
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_674)">
+      <rect id="Rectangle_674-2" data-name="Rectangle 674" width="274" height="152" rx="2" transform="translate(9 8)" fill="#fff"/>
+    </g>
+    <g id="Group_2612" data-name="Group 2612" transform="translate(10 10)">
+      <text id="Wire_Run" data-name="Wire Run" transform="translate(0 22)" fill="#707070" font-size="20" font-family="NetworkRailSans, Network Rail Sans"><tspan x="0" y="0">Wire Run</tspan></text>
+      <text id="_C_014_05" data-name="# C/014/05" transform="translate(0 59)" fill="#333" font-size="14" font-family="NetworkRailSans-Bold, Network Rail Sans" font-weight="700"><tspan x="0" y="0"># C/014/05</tspan></text>
+      <text id="ELR:_Track:_Last_Surveyed:_10_12_2018" data-name="ELR: 
+Track: 
+Last Surveyed: 10/12/2018" transform="translate(0 85)" fill="#737373" font-size="14" font-family="NetworkRailSans, Network Rail Sans"><tspan x="0" y="0">ELR: </tspan><tspan x="0" y="21">Track: </tspan><tspan x="0" y="42">Last Surveyed: 10/12/2018</tspan></text>
+    </g>
+    <g id="Group_2732" data-name="Group 2732">
+      <g id="Group_2581" data-name="Group 2581" transform="translate(233.323 14)">
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+      </g>
+    </g>
+    <g id="Group_2733" data-name="Group 2733" transform="translate(-29)">
+      <g id="Group_2581-2" data-name="Group 2581" transform="translate(233.323 14)">
+        <circle id="Ellipse_16-2" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+      </g>
+    </g>
+  </g>
+</svg>

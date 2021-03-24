@@ -1,0 +1,6 @@
+<section [ngClass]="class">
+  <input [type]="type" [placeholder]="placeholder" [value]="value || ''">
+  <span *ngIf="suffix">
+    <img class="suffix" [src]="suffix">
+  </span>
+</section>

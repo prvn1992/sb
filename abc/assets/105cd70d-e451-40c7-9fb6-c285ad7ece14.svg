@@ -1,0 +1,451 @@
+<svg id="Component_159" data-name="Component 159" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="830" height="525" viewBox="0 0 830 525">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="189" height="28" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect width="97" height="28" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-32">
+      <rect width="189" height="30" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-71">
+      <rect width="20" height="171" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-72">
+      <rect width="20" height="131" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-73">
+      <rect width="20" height="130" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-74">
+      <rect width="20" height="86" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-76">
+      <rect width="20" height="214" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Head.BG" width="830" height="45" fill="#4f99bb"/>
+  <text id="Status:_START_END" data-name="Status: START / END" transform="translate(680 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Status: START / END</tspan></text>
+  <text id="Last_Surveyed" data-name="Last Surveyed" transform="translate(486 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Last Surveyed</tspan></text>
+  <text id="ELR" transform="translate(186 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ELR</tspan></text>
+  <text id="Track_" data-name="Track #" transform="translate(333 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Track #</tspan></text>
+  <text id="ASSET_" data-name="ASSET #" transform="translate(22 27)" fill="#fff" font-size="13" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">ASSET #</tspan></text>
+  <rect id="Rectangle_1485" data-name="Rectangle 1485" width="830" height="46" transform="translate(0 45)" fill="#ebebeb"/>
+  <rect id="Rectangle_1485-2" data-name="Rectangle 1485" width="830" height="46" transform="translate(0 141)" fill="#ebebeb"/>
+  <rect id="Rectangle_1485-3" data-name="Rectangle 1485" width="830" height="46" transform="translate(0 237)" fill="#ebebeb"/>
+  <rect id="Rectangle_1485-4" data-name="Rectangle 1485" width="830" height="46" transform="translate(0 333)" fill="#ebebeb"/>
+  <rect id="Rectangle_1485-5" data-name="Rectangle 1485" width="830" height="46" transform="translate(0 429)" fill="#ebebeb"/>
+  <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(22 60)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-2" data-name="Repeat Grid 3" transform="translate(22 108)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-2" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-3" data-name="Repeat Grid 3" transform="translate(22 156)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-3" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-4" data-name="Repeat Grid 3" transform="translate(22 204)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-4" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-5" data-name="Repeat Grid 3" transform="translate(22 252)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-5" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-6" data-name="Repeat Grid 3" transform="translate(22 300)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-6" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-7" data-name="Repeat Grid 3" transform="translate(22 348)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-7" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-8" data-name="Repeat Grid 3" transform="translate(22 396)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-8" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-9" data-name="Repeat Grid 3" transform="translate(22 444)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-9" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-10" data-name="Repeat Grid 3" transform="translate(22 492)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <text id="PTS_2658A-10" data-name="PTS 2658A" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">PTS 2658A</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-11" data-name="Repeat Grid 3" transform="translate(186 59)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-2" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-12" data-name="Repeat Grid 3" transform="translate(186 107)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-3" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-4" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-13" data-name="Repeat Grid 3" transform="translate(186 155)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-5" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-6" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-14" data-name="Repeat Grid 3" transform="translate(186 203)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-7" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-8" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-15" data-name="Repeat Grid 3" transform="translate(186 251)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-9" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-10" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-16" data-name="Repeat Grid 3" transform="translate(186 299)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-11" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-12" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-17" data-name="Repeat Grid 3" transform="translate(186 347)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-13" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-14" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-18" data-name="Repeat Grid 3" transform="translate(186 395)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-15" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-16" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-19" data-name="Repeat Grid 3" transform="translate(186 443)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-17" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-18" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-20" data-name="Repeat Grid 3" transform="translate(186 491)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-19" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-20" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-21" data-name="Repeat Grid 3" transform="translate(333 59)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-21" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-22" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-22" data-name="Repeat Grid 3" transform="translate(333 107)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-23" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-24" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-23" data-name="Repeat Grid 3" transform="translate(333 155)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-25" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-26" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-24" data-name="Repeat Grid 3" transform="translate(333 203)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-27" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-28" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-25" data-name="Repeat Grid 3" transform="translate(333 251)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-29" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-30" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-26" data-name="Repeat Grid 3" transform="translate(333 299)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-31" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-32" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-27" data-name="Repeat Grid 3" transform="translate(333 347)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-33" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-34" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-28" data-name="Repeat Grid 3" transform="translate(333 395)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-35" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-36" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-29" data-name="Repeat Grid 3" transform="translate(333 443)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-37" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-38" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-30" data-name="Repeat Grid 3" transform="translate(333 491)" clip-path="url(#clip-path-11)">
+    <g transform="translate(-96 -214)">
+      <text id="ABC_PQR-39" data-name="ABC PQR" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">ABC PQR</tspan></text>
+      <text id="ABC_PQR-40" data-name="ABC PQR" transform="translate(68 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="19">ABC PQR</tspan></text>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-31" data-name="Repeat Grid 3" transform="translate(484 59)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-32" data-name="Repeat Grid 3" transform="translate(484 107)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-2" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-2" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-2" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-2" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-33" data-name="Repeat Grid 3" transform="translate(484 155)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-3" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-3" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-3" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-3" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-34" data-name="Repeat Grid 3" transform="translate(484 203)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-4" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-4" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-4" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-4" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-35" data-name="Repeat Grid 3" transform="translate(484 251)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-5" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-5" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-5" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-5" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-36" data-name="Repeat Grid 3" transform="translate(484 299)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-6" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-6" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-6" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-6" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-37" data-name="Repeat Grid 3" transform="translate(484 347)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-7" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-7" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-7" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-7" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-38" data-name="Repeat Grid 3" transform="translate(484 395)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-8" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-8" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-8" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-8" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-39" data-name="Repeat Grid 3" transform="translate(484 443)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-9" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-9" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-9" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-9" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_3-40" data-name="Repeat Grid 3" transform="translate(484 491)" clip-path="url(#clip-path)">
+    <g transform="translate(-96 -214)">
+      <g id="Repeat_Grid_7-10" data-name="Repeat Grid 7" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+        <g transform="translate(-96 -214)">
+          <g id="Repeat_Grid_8-10" data-name="Repeat Grid 8" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+            <g transform="translate(-96 -214)">
+              <g id="Repeat_Grid_9-10" data-name="Repeat Grid 9" transform="translate(96 214)" clip-path="url(#clip-path-32)">
+                <g transform="translate(-96 -214)">
+                  <text id="DD:MM:YY_HR:MM-10" data-name="DD:MM:YY HR:MM" transform="translate(96 214)" fill="#4d4f5c" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="13">DD:MM:YY HR:MM</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Repeat_Grid_23" data-name="Repeat Grid 23" transform="translate(741 58)" clip-path="url(#clip-path-71)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-2" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-3" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -70)">
+      <circle id="Ellipse_40-4" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_28" data-name="Repeat Grid 28" transform="translate(787 154)" clip-path="url(#clip-path-72)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-5" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-6" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-7" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e35100"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_24" data-name="Repeat Grid 24" transform="translate(741 249)" clip-path="url(#clip-path-73)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-8" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-9" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-10" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_26" data-name="Repeat Grid 26" transform="translate(787 58)" clip-path="url(#clip-path-74)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-11" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-12" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#e4b720"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_25" data-name="Repeat Grid 25" transform="translate(742 395)" clip-path="url(#clip-path-73)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-13" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-14" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-15" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+  </g>
+  <g id="Repeat_Grid_27" data-name="Repeat Grid 27" transform="translate(787 298)" clip-path="url(#clip-path-76)">
+    <g transform="translate(-108 -214)">
+      <circle id="Ellipse_40-16" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -166)">
+      <circle id="Ellipse_40-17" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -118)">
+      <circle id="Ellipse_40-18" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -70)">
+      <circle id="Ellipse_40-19" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+    <g transform="translate(-108 -22)">
+      <circle id="Ellipse_40-20" data-name="Ellipse 40" cx="10" cy="10" r="10" transform="translate(108 214)" fill="#8dc055"/>
+    </g>
+  </g>
+</svg>

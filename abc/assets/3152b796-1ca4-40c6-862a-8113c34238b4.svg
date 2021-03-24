@@ -1,0 +1,8 @@
+<svg id="Checkbox_selected" data-name="Checkbox selected" xmlns="http://www.w3.org/2000/svg" width="99" height="30" viewBox="0 0 99 30">
+  <text id="Selected" transform="translate(40 20)" fill="#43425d" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Selected</tspan></text>
+  <g id="Rectangle_730" data-name="Rectangle 730" fill="#fff" stroke="#5098bb" stroke-width="2">
+    <rect width="30" height="30" rx="6" stroke="none"/>
+    <rect x="1" y="1" width="28" height="28" rx="5" fill="none"/>
+  </g>
+  <path id="Path_320" data-name="Path 320" d="M6.5,10.8,0,4.3,2.1,2.2,6.5,6.5,13,0l2.1,2.1Z" transform="translate(7 10)" fill="#5098bb"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="Component_307" data-name="Component 307" xmlns="http://www.w3.org/2000/svg" width="327" height="82" viewBox="0 0 327 82">
+  <g id="Group_5011" data-name="Group 5011">
+    <g id="Selectbox.BG" transform="translate(0 42)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+      <rect width="327" height="40" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="326" height="39" rx="1.5" fill="none"/>
+    </g>
+    <text id="Select_from_the_list" data-name="Select from the list" transform="translate(10 66)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Select from the list</tspan></text>
+    <g id="Group_4281" data-name="Group 4281" transform="translate(-2332 -6515)">
+      <rect id="Rectangle_2228" data-name="Rectangle 2228" width="40" height="40" rx="2" transform="translate(2619 6557)" fill="#914c4c" opacity="0.003"/>
+      <path id="Path_1904" data-name="Path 1904" d="M4.463,0,0,4.511,1.157,5.68,4.463,2.339,7.769,5.68,8.926,4.511Z" transform="translate(2643.535 6579.44) rotate(180)" fill="#1d7880"/>
+    </g>
+  </g>
+  <text id="Provide_Track_ID_of_the_Asset_from_dropdown_list" data-name="Provide Track ID of the Asset from dropdown list" transform="translate(0 29)" fill="#939393" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Provide Track ID of the Asset from dropdown list</tspan></text>
+  <text id="Track_ID" data-name="Track ID" transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Track ID</tspan></text>
+</svg>

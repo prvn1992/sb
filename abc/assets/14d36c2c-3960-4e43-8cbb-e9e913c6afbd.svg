@@ -1,0 +1,13 @@
+<svg id="Uploader_half" data-name="Uploader half" xmlns="http://www.w3.org/2000/svg" width="618" height="425" viewBox="0 0 618 425">
+  <rect id="Rectangle_742" data-name="Rectangle 742" width="618" height="425" fill="rgba(79,153,187,0.1)"/>
+  <g id="Path_344" data-name="Path 344" transform="translate(10.957 10.957)" fill="none">
+    <path d="M0,0H596.085V403.234H0Z" stroke="none"/>
+    <path d="M 4.99993896484375 5 L 4.99993896484375 398.2340087890625 L 591.0850830078125 398.2340087890625 L 591.0850830078125 5 L 4.99993896484375 5 M -6.103515625e-05 0 L 596.0850830078125 0 L 596.0850830078125 403.2340087890625 L -6.103515625e-05 403.2340087890625 L -6.103515625e-05 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <g id="upload" transform="translate(202.953 129.084)">
+    <path id="Path_343" data-name="Path 343" d="M89.972,29.6c0-.293.049-.586.049-.879A28.367,28.367,0,0,0,35.954,16.364,14.593,14.593,0,0,0,14.918,27.111,22.235,22.235,0,0,0,22,70.341h25.19V50.8H35.34L55.05,30.359,74.76,50.778H62.914V70.317H90.021A20.359,20.359,0,0,0,89.972,29.6Z" transform="translate(46.26 0)" fill="rgba(79,153,187,0.2)"/>
+    <text id="Drag_and_drop_a_file_here_or_Browse" data-name="Drag and drop a file here
+or
+Browse" transform="translate(101.047 105.916)" fill="#939393" font-size="18" font-family="ArialMT, Arial"><tspan x="-99.563" y="0">Drag and drop a file here</tspan><tspan x="-8.002" y="27">or</tspan><tspan fill="#106aa3" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-32.511" y="54">Browse</tspan></tspan></text>
+  </g>
+</svg>

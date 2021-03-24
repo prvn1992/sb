@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="526" height="56" viewBox="0 0 526 56">
+  <defs>
+    <filter id="Rectangle_660" x="0" y="0" width="526" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1624" data-name="Rectangle 1624" width="21" height="21" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1628" data-name="Rectangle 1628" width="28" height="28" transform="translate(0 -0.408)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_94" data-name="Component 94" transform="translate(6 4)">
+    <g id="Search_Active">
+      <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_660)">
+        <rect id="Rectangle_660-2" data-name="Rectangle 660" width="514" height="44" rx="22" transform="translate(6 4)" fill="#fff"/>
+      </g>
+      <g id="Icon_search_Active" transform="translate(492.5 22.5)">
+        <g id="Group_2744" data-name="Group 2744" transform="translate(-10.5 -10.5)" clip-path="url(#clip-path)">
+          <path id="Path_1397" data-name="Path 1397" d="M8.458,3.8a4.717,4.717,0,0,1,3.887,7.337l-.524.786-.786.524a4.717,4.717,0,1,1-2.62-8.6m0-3.8a8.516,8.516,0,1,0,4.8,15.547l4.891,4.891a1.637,1.637,0,1,0,2.315-2.315l-4.891-4.891A8.516,8.516,0,0,0,8.458,0" transform="translate(0.058 0)" fill="#1d7880"/>
+        </g>
+      </g>
+      <text id="Name" transform="translate(18 27)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">EACR12984</tspan></text>
+    </g>
+    <g id="Icon_Close2" transform="translate(439 22.408)">
+      <g id="Group_2749" data-name="Group 2749" transform="translate(-14 -14)" clip-path="url(#clip-path-2)">
+        <path id="Path_1401" data-name="Path 1401" d="M13.8,0a13.8,13.8,0,1,0,13.8,13.8A13.8,13.8,0,0,0,13.8,0m7.53,18.567-2.759,2.759L13.8,16.555,9.025,21.326,6.266,18.567,11.037,13.8,6.266,9.025,9.025,6.266,13.8,11.037l4.771-4.771,2.759,2.759L16.555,13.8Z" fill="#1d7880"/>
+      </g>
+    </g>
+  </g>
+</svg>

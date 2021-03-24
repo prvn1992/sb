@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="47" viewBox="0 0 185 47">
+  <defs>
+    <filter id="Path_1387" x="0" y="0" width="185" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_75" data-name="Component 75" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Path_1387)">
+      <path id="Path_1387-2" data-name="Path 1387" d="M17.5,0h138a17.5,17.5,0,0,1,0,35H17.5A17.5,17.5,0,0,1,7.524,3.12,17.187,17.187,0,0,1,17.5,0Z" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1488" data-name="Rectangle 1488" width="88" height="31" rx="15.5" transform="translate(83 2)" fill="#1d7880"/>
+    <text id="Map_View" data-name="Map View" transform="translate(47 21.941)" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-26.247" y="0">Map View</tspan></text>
+    <text id="List_View" data-name="List View" transform="translate(127 21.941)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0em"><tspan x="-23.134" y="0">List View</tspan></text>
+  </g>
+</svg>

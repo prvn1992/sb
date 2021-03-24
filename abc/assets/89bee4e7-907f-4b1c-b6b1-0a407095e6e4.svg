@@ -1,0 +1,257 @@
+<svg id="Calendar_Month" data-name="Calendar Month" xmlns="http://www.w3.org/2000/svg" width="402" height="389.015" viewBox="0 0 402 389.015">
+  <text id="January_2018" data-name="January 2018" transform="translate(197 15)" fill="#4f99bb" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-53.872" y="0">January 2018</tspan></text>
+  <g id="days" transform="translate(0 43.033)">
+    <g id="Rectangle_169" data-name="Rectangle 169" transform="translate(0 -0.033)" fill="rgba(141,194,85,0.2)" stroke="#e8e9ec" stroke-width="1">
+      <rect width="402" height="58" stroke="none"/>
+      <rect x="0.5" y="0.5" width="401" height="57" fill="none"/>
+    </g>
+    <text id="SU" transform="translate(32 34.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.724" y="0">SU</tspan></text>
+    <text id="MO" transform="translate(88 33.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-11.276" y="0">MO</tspan></text>
+    <text id="TU" transform="translate(147 34.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.331" y="0">TU</tspan></text>
+    <text id="WE" transform="translate(204 34.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-11.276" y="0">WE</tspan></text>
+    <text id="TH" transform="translate(265 34.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.331" y="0">TH</tspan></text>
+    <text id="FR" transform="translate(320 34.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.331" y="0">FR</tspan></text>
+    <text id="SA" transform="translate(375 34.967)" fill="#5098bb" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.724" y="0">SA</tspan></text>
+  </g>
+  <g id="date" transform="translate(0 101.545)">
+    <g id="Rectangle_162" data-name="Rectangle 162" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+  </g>
+  <g id="date-2" data-name="date" transform="translate(57.258 101.545)">
+    <g id="Rectangle_163" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_1" data-name="1" transform="translate(27.742 35.455)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">1</tspan></text>
+  </g>
+  <g id="date-3" data-name="date" transform="translate(114.513 101.545)">
+    <g id="Rectangle_163-2" data-name="Rectangle 163" fill="#4f99bb" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_2" data-name="2" transform="translate(27.487 35.455)" fill="#fff" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">2</tspan></text>
+  </g>
+  <g id="date-4" data-name="date" transform="translate(171.767 101.545)">
+    <g id="Rectangle_163-3" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_3" data-name="3" transform="translate(29.233 35.455)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">3</tspan></text>
+  </g>
+  <g id="date-5" data-name="date" transform="translate(229.022 101.545)">
+    <g id="Rectangle_163-4" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_4" data-name="4" transform="translate(28.978 35.455)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">4</tspan></text>
+  </g>
+  <g id="date-6" data-name="date" transform="translate(286.276 101.545)">
+    <g id="Rectangle_163-5" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_5" data-name="5" transform="translate(28.724 35.455)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">5</tspan></text>
+  </g>
+  <g id="date-7" data-name="date" transform="translate(343.531 101.545)">
+    <g id="Rectangle_163-6" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_6" data-name="6" transform="translate(28.469 35.455)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">6</tspan></text>
+  </g>
+  <g id="date-8" data-name="date" transform="translate(57.258 158.8)">
+    <g id="Rectangle_163-7" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_8" data-name="8" transform="translate(27.742 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">8</tspan></text>
+  </g>
+  <g id="date-9" data-name="date" transform="translate(0.004 158.8)">
+    <g id="Rectangle_163-8" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_7" data-name="7" transform="translate(27.996 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">7</tspan></text>
+  </g>
+  <g id="date-10" data-name="date" transform="translate(114.513 158.8)">
+    <g id="Rectangle_163-9" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_9" data-name="9" transform="translate(27.487 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-4.727" y="0">9</tspan></text>
+  </g>
+  <g id="date-11" data-name="date" transform="translate(171.767 158.8)">
+    <g id="Rectangle_163-10" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_10" data-name="10" transform="translate(28.233 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">10</tspan></text>
+  </g>
+  <g id="date-12" data-name="date" transform="translate(229.022 158.8)">
+    <g id="Rectangle_163-11" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_11" data-name="11" transform="translate(27.978 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-8.824" y="0">11</tspan></text>
+  </g>
+  <g id="date-13" data-name="date" transform="translate(286.276 158.8)">
+    <g id="Rectangle_163-12" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_12" data-name="12" transform="translate(27.724 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">12</tspan></text>
+  </g>
+  <g id="date-14" data-name="date" transform="translate(343.531 158.8)">
+    <g id="Rectangle_163-13" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_13" data-name="13" transform="translate(29.469 35.2)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">13</tspan></text>
+  </g>
+  <g id="date-15" data-name="date" transform="translate(57.258 216.055)">
+    <g id="Rectangle_163-14" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_15" data-name="15" transform="translate(28.742 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">15</tspan></text>
+  </g>
+  <g id="date-16" data-name="date" transform="translate(57.258 273.309)">
+    <g id="Rectangle_163-15" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_22" data-name="22" transform="translate(28.742 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">22</tspan></text>
+  </g>
+  <g id="date-17" data-name="date" transform="translate(57.258 330.564)">
+    <g id="Rectangle_163-16" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_29" data-name="29" transform="translate(28.742 34.436)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">29</tspan></text>
+  </g>
+  <g id="date-18" data-name="date" transform="translate(0.004 216.055)">
+    <g id="Rectangle_163-17" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_14" data-name="14" transform="translate(28.996 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">14</tspan></text>
+  </g>
+  <g id="date-19" data-name="date" transform="translate(0.004 273.309)">
+    <g id="Rectangle_163-18" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_21" data-name="21" transform="translate(28.996 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">21</tspan></text>
+  </g>
+  <g id="date-20" data-name="date" transform="translate(0.004 330.564)">
+    <g id="Rectangle_163-19" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_28" data-name="28" transform="translate(28.996 34.436)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">28</tspan></text>
+  </g>
+  <g id="date-21" data-name="date" transform="translate(114.513 216.055)">
+    <g id="Rectangle_163-20" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_16" data-name="16" transform="translate(28.487 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">16</tspan></text>
+  </g>
+  <g id="date-22" data-name="date" transform="translate(114.513 273.309)">
+    <g id="Rectangle_163-21" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_23" data-name="23" transform="translate(28.487 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">23</tspan></text>
+  </g>
+  <g id="date-23" data-name="date" transform="translate(114.513 330.564)">
+    <g id="Rectangle_163-22" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_30" data-name="30" transform="translate(28.487 34.436)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">30</tspan></text>
+  </g>
+  <g id="date-24" data-name="date" transform="translate(171.767 216.055)">
+    <g id="Rectangle_163-23" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_17" data-name="17" transform="translate(28.233 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">17</tspan></text>
+  </g>
+  <g id="date-25" data-name="date" transform="translate(171.767 273.309)">
+    <g id="Rectangle_163-24" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_24" data-name="24" transform="translate(28.233 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">24</tspan></text>
+  </g>
+  <g id="date-26" data-name="date" transform="translate(171.767 330.564)">
+    <g id="Rectangle_163-25" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_31" data-name="31" transform="translate(28.233 34.436)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">31</tspan></text>
+  </g>
+  <g id="date-27" data-name="date" transform="translate(229.022 216.055)">
+    <g id="Rectangle_163-26" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_18" data-name="18" transform="translate(27.978 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">18</tspan></text>
+  </g>
+  <g id="date-28" data-name="date" transform="translate(229.022 273.309)">
+    <g id="Rectangle_163-27" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_25" data-name="25" transform="translate(27.978 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">25</tspan></text>
+  </g>
+  <g id="date-29" data-name="date" transform="translate(229.022 330.564)">
+    <g id="Rectangle_163-28" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+  </g>
+  <g id="date-30" data-name="date" transform="translate(286.276 216.055)">
+    <g id="Rectangle_163-29" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_19" data-name="19" transform="translate(27.724 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">19</tspan></text>
+  </g>
+  <g id="date-31" data-name="date" transform="translate(286.276 273.309)">
+    <g id="Rectangle_163-30" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_26" data-name="26" transform="translate(27.724 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">26</tspan></text>
+  </g>
+  <g id="date-32" data-name="date" transform="translate(286.276 330.564)">
+    <g id="Rectangle_163-31" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+  </g>
+  <g id="date-33" data-name="date" transform="translate(343.531 216.055)">
+    <g id="Rectangle_163-32" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_20" data-name="20" transform="translate(29.469 34.945)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">20</tspan></text>
+  </g>
+  <g id="date-34" data-name="date" transform="translate(343.531 273.309)">
+    <g id="Rectangle_163-33" data-name="Rectangle 163" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+    <text id="_27" data-name="27" transform="translate(29.469 34.691)" fill="#43425d" font-size="17" font-family="ArialMT, Arial"><tspan x="-9.455" y="0">27</tspan></text>
+  </g>
+  <g id="date-35" data-name="date" transform="translate(343.531 330.564)">
+    <g id="Rectangle_163-34" data-name="Rectangle 163" transform="translate(0 0)" fill="#fff" stroke="#e8e9ec" stroke-width="1">
+      <rect width="58.451" height="58.451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="57.451" height="57.451" fill="none"/>
+    </g>
+  </g>
+</svg>

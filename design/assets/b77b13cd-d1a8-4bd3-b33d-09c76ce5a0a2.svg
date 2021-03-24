@@ -1,0 +1,9 @@
+<svg id="Field_EnterEmail" xmlns="http://www.w3.org/2000/svg" width="307" height="45" viewBox="0 0 307 45">
+  <g id="Text_Field_Container" data-name="Text Field Container" fill="#fff" stroke="#aaa" stroke-width="1">
+    <rect width="307" height="45" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="306" height="44" rx="3.5" fill="none"/>
+  </g>
+  <g id="Text_Enteremail" transform="translate(20 14)">
+    <text id="Enter_email" data-name="Enter email" transform="translate(40 14)" fill="#aaa" font-size="16" font-family="ArialMT, Arial"><tspan x="-40.461" y="0">Enter email</tspan></text>
+  </g>
+</svg>

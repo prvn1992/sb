@@ -1,0 +1,16 @@
+<svg id="Uploader_full" data-name="Uploader full" xmlns="http://www.w3.org/2000/svg" width="1266" height="678" viewBox="0 0 1266 678">
+  <rect id="Rectangle_742" data-name="Rectangle 742" width="1266" height="678" fill="rgba(79,153,187,0.1)"/>
+  <g id="Rectangle_743" data-name="Rectangle 743" transform="translate(22 22)" fill="none" stroke="#fff" stroke-width="5">
+    <rect width="1222" height="634" stroke="none"/>
+    <rect x="2.5" y="2.5" width="1217" height="629" fill="none"/>
+  </g>
+  <g id="upload" transform="translate(532.42 218.653)">
+    <path id="Path_343" data-name="Path 343" d="M128.65,42.328c0-.419.07-.838.07-1.257A40.561,40.561,0,0,0,51.411,23.4,20.867,20.867,0,0,0,21.33,38.765,31.794,31.794,0,0,0,31.451,100.58H67.47V72.641H50.532L78.715,43.41l28.183,29.2H89.96v27.939h38.76a29.111,29.111,0,0,0-.07-58.218Z" transform="translate(21.865)" fill="rgba(79,153,187,0.2)"/>
+    <text id="Drag_and_drop_a_file_here_or" data-name="Drag and drop a file here
+or" transform="translate(96.58 154.347)" fill="#939393" font-size="19" font-family="ArialMT, Arial"><tspan x="-105.094" y="0">Drag and drop a file here</tspan><tspan x="-8.447" y="26">or</tspan></text>
+  </g>
+  <g id="button_normal" transform="translate(541.166 436.212)">
+    <rect id="Rectangle_166" data-name="Rectangle 166" width="184" height="44" rx="4" transform="translate(-0.166 -0.212)" fill="#4f99bb"/>
+    <text id="Choose_File" data-name="Choose File" transform="translate(87.544 28.637)" fill="#fff" font-size="18" font-family="ArialMT, Arial"><tspan x="-48.023" y="0">Choose File</tspan></text>
+  </g>
+</svg>

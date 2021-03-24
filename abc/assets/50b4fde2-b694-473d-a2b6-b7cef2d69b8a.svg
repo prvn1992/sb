@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248" height="225" viewBox="0 0 248 225">
+  <defs>
+    <filter id="Rectangle_674" x="0" y="0" width="248" height="225" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_174" data-name="Component 174" transform="translate(9 8)">
+    <g transform="matrix(1, 0, 0, 1, -9, -8)" filter="url(#Rectangle_674)">
+      <rect id="Rectangle_674-2" data-name="Rectangle 674" width="230" height="207" rx="2" transform="translate(9 8)" fill="#fff"/>
+    </g>
+    <g id="BTN" transform="translate(10 155)">
+      <rect id="Rectangle_166" data-name="Rectangle 166" width="166" height="44" rx="4" fill="#1d7880"/>
+      <text id="View" transform="translate(84 27.5)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-18.086" y="0">View</tspan></text>
+    </g>
+    <g id="Group_2612" data-name="Group 2612" transform="translate(10 25)">
+      <text id="END_Structure" data-name="END Structure" transform="translate(0 16)" fill="#707070" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">END Structure</tspan></text>
+      <text id="C_014_04" data-name="C/014/04" transform="translate(0 39)" fill="#333" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">C/014/04</tspan></text>
+      <text id="Wire_Run:_JO5_ELR:_BBM_to_BBM_Track:_1900_-_Up_Slow_Last_Surveyed:_10_Dec_2019" data-name="Wire Run: JO5
+ELR: BBM to BBM
+Track: 1900 - Up Slow
+Last Surveyed: 10 Dec 2019" transform="translate(0 60)" fill="#737373" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Wire Run: JO5</tspan><tspan x="0" y="18">ELR: BBM to BBM</tspan><tspan x="0" y="36">Track: 1900 - Up Slow</tspan><tspan x="0" y="54">Last Surveyed: 10 Dec 2019</tspan></text>
+    </g>
+    <g id="Group_2733" data-name="Group 2733" transform="translate(-37 151)">
+      <g id="Group_2581" data-name="Group 2581" transform="translate(233.323 14)">
+        <circle id="Ellipse_16" data-name="Ellipse 16" cx="12" cy="12" r="12" transform="translate(-0.323)" fill="#e4b720"/>
+      </g>
+    </g>
+  </g>
+</svg>

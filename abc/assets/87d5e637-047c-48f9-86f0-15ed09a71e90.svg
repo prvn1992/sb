@@ -1,0 +1,7 @@
+<svg id="Checkbox_select" data-name="Checkbox select" xmlns="http://www.w3.org/2000/svg" width="82" height="30" viewBox="0 0 82 30">
+  <text id="Select" transform="translate(40 20)" fill="#43425d" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Select</tspan></text>
+  <g id="Rectangle_728" data-name="Rectangle 728" fill="#fff" stroke="rgba(80,152,187,0.4)" stroke-width="2">
+    <rect width="30" height="30" rx="6" stroke="none"/>
+    <rect x="1" y="1" width="28" height="28" rx="5" fill="none"/>
+  </g>
+</svg>

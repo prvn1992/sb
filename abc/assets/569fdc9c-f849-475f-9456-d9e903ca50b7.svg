@@ -1,0 +1,24 @@
+<svg id="Alerts_-_2_Line_Title" data-name="Alerts - 2 Line Title" xmlns="http://www.w3.org/2000/svg" width="300" height="163" viewBox="0 0 300 163">
+  <g id="Background" transform="translate(16)">
+    <rect id="Platter" width="298" height="163" rx="14" transform="translate(-14)" fill="rgba(242,242,242,0.8)"/>
+  </g>
+  <text id="Description" transform="translate(32 67)" font-size="13" font-family="ArialMT, Arial" letter-spacing="-0.008em"><tspan x="9.364" y="12">Please allow access to device location</tspan><tspan x="63.654" y="28">for best experience</tspan></text>
+  <text id="Title" transform="translate(151 45)" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.032em"><tspan x="-127.819" y="0">This app requires location access</tspan></text>
+  <g id="Bottom_Actions" data-name="Bottom Actions" transform="translate(16 119)">
+    <g id="Right_Action" data-name="Right Action" transform="translate(134)">
+      <rect id="Frame" width="134" height="44" fill="#fff" opacity="0"/>
+      <text id="Label" transform="translate(67 28)" fill="#1d7880" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.024em"><tspan x="-21.849" y="0">Allow</tspan></text>
+    </g>
+    <g id="Left_Action" data-name="Left Action">
+      <rect id="Frame-2" data-name="Frame" width="134" height="44" fill="#fff" opacity="0"/>
+      <text id="Label-2" data-name="Label" transform="translate(67 28)" fill="#1d7880" font-size="17" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.024em"><tspan x="-26.854" y="0">Cancel</tspan></text>
+    </g>
+    <g id="Separator" transform="translate(134 0.5)">
+      <rect id="Separator-2" data-name="Separator" width="0.5" height="43.5" fill="rgba(60,60,67,0.29)"/>
+    </g>
+    <g id="Top_Border" data-name="Top Border">
+      <rect id="Frame-3" data-name="Frame" width="268" height="1" fill="#fff" opacity="0"/>
+      <rect id="Separator-3" data-name="Separator" width="300" height="0.5" transform="translate(-16)" fill="rgba(60,60,67,0.29)"/>
+    </g>
+  </g>
+</svg>

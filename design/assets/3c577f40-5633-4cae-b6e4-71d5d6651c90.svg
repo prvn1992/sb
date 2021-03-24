@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141.918" height="58" viewBox="0 0 141.918 58">
+  <defs>
+    <filter id="Button" x="0" y="0" width="141.918" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#e1e1e1"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Button_Login" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Button)">
+      <rect id="Button-2" data-name="Button" width="123.918" height="40" rx="2" transform="translate(9 6)" fill="#51acb8"/>
+    </g>
+    <g id="Text_Login" transform="translate(37.959 12)">
+      <text id="Log_In" data-name="Log In" transform="translate(24 14)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-23.992" y="0">Log In</tspan></text>
+    </g>
+  </g>
+</svg>

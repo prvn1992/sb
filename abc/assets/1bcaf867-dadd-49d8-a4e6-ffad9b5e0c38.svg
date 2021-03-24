@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="188" height="56" viewBox="0 0 188 56">
+  <defs>
+    <filter id="Rectangle_1484" x="0" y="0" width="188" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Toggle" transform="translate(6 4)">
+    <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Rectangle_1484)">
+      <rect id="Rectangle_1484-2" data-name="Rectangle 1484" width="176" height="44" rx="22" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1485" data-name="Rectangle 1485" width="90" height="44" rx="22" fill="#1d7880"/>
+    <text id="Map_View" data-name="Map View" transform="translate(45 26.053)" fill="#fff" font-size="12" font-family="ArialMT, Arial" letter-spacing="0em"><tspan x="-26.218" y="0">Map View</tspan></text>
+    <text id="List_View" data-name="List View" transform="translate(131 26.053)" font-size="12" font-family="ArialMT, Arial" letter-spacing="0em"><tspan x="-23.881" y="0">List View</tspan></text>
+  </g>
+</svg>

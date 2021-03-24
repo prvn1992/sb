@@ -1,0 +1,9 @@
+<svg id="Component_252" data-name="Component 252" xmlns="http://www.w3.org/2000/svg" width="327" height="82" viewBox="0 0 327 82">
+  <text id="Distance_to_MPA_m_" data-name="Distance to MPA (m)" transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial"><tspan x="0" y="0">Distance to MPA (m)</tspan></text>
+  <text id="Provide_MPA_Distance_for_the_Asset" data-name="Provide MPA Distance for the Asset" transform="translate(0 29)" font-size="12" font-family="ArialMT, Arial" opacity="0.4"><tspan x="0" y="0">Provide MPA Distance for the Asset</tspan></text>
+  <g id="Selectbox.BG" transform="translate(0 42)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+    <rect width="327" height="40" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="326" height="39" rx="1.5" fill="none"/>
+  </g>
+  <text id="Enter_the_value" data-name="Enter the value" transform="translate(10 66)" font-size="12" font-family="ArialMT, Arial" opacity="0.3"><tspan x="0" y="0">Enter the value</tspan></text>
+</svg>

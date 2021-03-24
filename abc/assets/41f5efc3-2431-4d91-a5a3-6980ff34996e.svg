@@ -1,0 +1,8 @@
+<svg id="Bottom_Actions" data-name="Bottom Actions" xmlns="http://www.w3.org/2000/svg" width="268" height="44" viewBox="0 0 268 44">
+  <rect id="Frame" width="268" height="44" fill="#fff" opacity="0"/>
+  <g id="Separator">
+    <rect id="Frame-2" data-name="Frame" width="268" height="1" fill="#fff" opacity="0"/>
+    <rect id="Separator-2" data-name="Separator" width="268" height="0.5" fill="rgba(60,60,67,0.29)"/>
+  </g>
+  <text id="Label" transform="translate(134 28)" fill="#007aff" font-size="17" font-family="Helvetica" letter-spacing="-0.024em"><tspan x="-20.915" y="0">Close</tspan></text>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Component_305" data-name="Component 305" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="327" height="82" viewBox="0 0 327 82">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2741" data-name="Rectangle 2741" width="16" height="16" transform="translate(-6374 8003)" fill="#4d4f5c"/>
+    </clipPath>
+  </defs>
+  <text id="Distance_to_MPA_m_" data-name="Distance to MPA (m)" transform="translate(0 13)" font-size="14" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Distance to MPA (m)</tspan></text>
+  <text id="Provide_MPA_Distance_for_the_Asset" data-name="Provide MPA Distance for the Asset" transform="translate(0 29)" fill="#939393" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">Provide MPA Distance for the Asset</tspan></text>
+  <g id="Selectbox.BG" transform="translate(0 42)" fill="#fff" stroke="rgba(0,0,0,0.2)" stroke-width="1">
+    <rect width="327" height="40" rx="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="326" height="39" rx="1.5" fill="none"/>
+  </g>
+  <text id="Enter_the_value" data-name="Enter the value" transform="translate(10 66)" fill="#939393" font-size="12" font-family="ArialMT, Arial" opacity="0.8"><tspan x="0" y="0">Enter the value</tspan></text>
+  <g id="Component_427_23" data-name="Component 427 – 23" transform="translate(132)">
+    <g id="Mask_Group_23" data-name="Mask Group 23" transform="translate(6374 -8003)" clip-path="url(#clip-path)">
+      <path id="info-circle" d="M8.258.258a8,8,0,1,0,8,8A8,8,0,0,0,8.258.258Zm0,3.548A1.355,1.355,0,1,1,6.9,5.161,1.355,1.355,0,0,1,8.258,3.806ZM10.065,12a.387.387,0,0,1-.387.387H6.839A.387.387,0,0,1,6.452,12v-.774a.387.387,0,0,1,.387-.387h.387V8.774H6.839a.387.387,0,0,1-.387-.387V7.613a.387.387,0,0,1,.387-.387H8.9a.387.387,0,0,1,.387.387v3.226h.387a.387.387,0,0,1,.387.387Z" transform="translate(-6374.258 8002.742)" fill="#4d4f5c"/>
+    </g>
+  </g>
+</svg>

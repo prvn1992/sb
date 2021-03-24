@@ -1,0 +1,14 @@
+<form>
+  <figcaption><b>Log In</b></figcaption>
+  <fieldset>
+    <app-text-field type="email" class="mb1" placeholder="Enter email" [class]="['mb1']" [value]="credential?.email"></app-text-field>
+    <app-text-field type="password" placeholder="Enter password"
+      [suffix]="'./assets/images/icons/4c98a48f-692e-4dc0-b9d3-baf3f8a4254f.svg'"  [value]="credential?.password"></app-text-field>
+  </fieldset>
+  <div class="action-area">
+    <span><a href="#">Forgot Password?</a></span>
+    <span class="action">
+      <app-button label="Log In" primary="true"></app-button>
+    </span>
+  </div>
+</form>

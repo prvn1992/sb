@@ -1,0 +1,9 @@
+<svg id="Form_Field_Focus" data-name="Form Field Focus" xmlns="http://www.w3.org/2000/svg" width="400" height="71" viewBox="0 0 400 71">
+  <g id="Rectangle_175" data-name="Rectangle 175" fill="#fff" stroke="#5098bb" stroke-width="1">
+    <rect width="400" height="40" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="399" height="39" rx="3.5" fill="none"/>
+  </g>
+  <text id="Input" transform="translate(16 25)" fill="#4d4f5c" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Input</tspan></text>
+  <text id="Helper_Text" data-name="Helper Text" transform="translate(0 68)" fill="#808495" font-size="13" font-family="ArialMT, Arial"><tspan x="0" y="0">Helper Text</tspan></text>
+  <path id="Path_308" data-name="Path 308" d="M418.313,486.213v25" transform="translate(-367 -479)" fill="none" stroke="#5098bb" stroke-width="1"/>
+</svg>

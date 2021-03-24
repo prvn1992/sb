@@ -1,0 +1,7 @@
+<svg id="Breadcrumbs" xmlns="http://www.w3.org/2000/svg" width="1440" height="60" viewBox="0 0 1440 60">
+  <path id="Background" d="M0,0H1440V60H0Z" fill="#fff"/>
+  <text id="HOME" transform="translate(40 36)" fill="#4f99bb" font-size="15" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">Home</tspan></text>
+  <text id="ASSET_PROFILE" data-name="ASSET PROFILE" transform="translate(109 36)" fill="#4f99bb" font-size="15" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">Asset Profile</tspan></text>
+  <text id="Profile_link_1" data-name="Profile link 1" transform="translate(220 36)" fill="#4f99bb" font-size="15" font-family="ArialMT, Arial" letter-spacing="-0.02em"><tspan x="0" y="0">Profile Link 1</tspan></text>
+  <text id="Profile_link_2" data-name="Profile link 2" transform="translate(333 36)" fill="#939393" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">Profile Link 2</tspan></text>
+</svg>
